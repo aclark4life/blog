@@ -300,7 +300,6 @@ sphinx-init:
 	$(MAKE) pip-install-sphinx
 	sphinx-quickstart -q -p $(PROJECT) -a $(USER) -v 0.0.1 $(RANDIR)
 	mv $(RANDIR)/* .
-	$(MAKE) sphinx-build
 sphinx-serve:
 	cd _build/html;python -m http.server
 
@@ -330,5 +329,5 @@ vm: vagrant-init  # Alias
 
 #PROJECT = project
 #APP = app
-.DEFAULT_GOAL=commit-push
+#.DEFAULT_GOAL=commit-push
 #install: pip-install
