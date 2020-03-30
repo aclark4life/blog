@@ -10,7 +10,9 @@ Welcome to project's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+.. feed::
+   :rss: index.rss
+   :title: Elvensense News
 
 Indices and tables
 ==================
