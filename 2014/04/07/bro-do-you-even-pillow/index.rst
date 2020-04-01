@@ -4,7 +4,7 @@ Bro, do you even Pillow?
 .. image:: /images/bro-do-you-even-pillow.jpg
     :alt: Bro, do you even Pillow?
     :align: center
-    :class: img-thumbnail
+    :class: blog-image
 
 |
 

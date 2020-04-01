@@ -335,4 +335,6 @@ install: pip-install
 
 html: sphinx-build
 build: sphinx-build
-b: sphinx-build
+b: 
+	rm -rvf _build
+	$(MAKE) sphinx-build

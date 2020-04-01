@@ -7,6 +7,7 @@ Alex Clark
 ===================================
 
 .. image:: images/aclark-jobs.jpg
+   :class: blog-image
    :align: center
 
 Alex Clark is President and co-founder of ACLARKNET.

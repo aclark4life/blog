@@ -10,7 +10,7 @@ A while back I was asked to speak to the Configuration Management Working Group 
 
 .. image:: /images/project-makefile-tweet.png
     :align: center
-    :class: img-thumbnail
+    :class: blog-image
     :target: https://twitter.com/CMWorkingGrp/status/773228143939293185
 
 From that moment on, it was on: an excuse to finish and talk about the ``Makefile`` I'd been dragging around *formerly since January* and informerly much longer.
