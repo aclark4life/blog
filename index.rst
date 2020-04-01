@@ -6,9 +6,6 @@
 Alex Clark
 ===================================
 
-Blog
-----
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:

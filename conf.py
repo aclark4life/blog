@@ -67,6 +67,7 @@ html_theme_options = {
 #    'github_repo': 'Pillow',
     'show_powered_by': False,
     'show_relbars': True,
+    'logo_name': True,
 }
 
 html_sidebars = {
