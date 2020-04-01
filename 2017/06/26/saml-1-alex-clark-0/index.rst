@@ -41,7 +41,7 @@ No, the IdP is not the user database. Rather, the IdP is "the thing that answers
 XML
 ---
 
-Turns out implementing SAML presents many challenges, one of which is one must "deal with" XML. I don't have any specific gripes about XML, but parsing XML does add a **layer of complexity I could have done without**.
+Turns out implementing SAML presents many challenges, one of which is one must "deal with" XML. I don't have any specific gripes about XML, but parsing XML does add a layer of complexity I could have done without.
 
 Crypto
 ------
