@@ -22,10 +22,10 @@ copyright = ' 2020 Alex Clark'
 author = 'Alex Clark'
 
 # The short X.Y version
-version = '0.0.1'
+version = ''
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.1'
+release = ''
 
 
 # -- General configuration ---------------------------------------------------
