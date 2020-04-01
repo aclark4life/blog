@@ -6,6 +6,9 @@
 Alex Clark
 ===================================
 
+
+.. image:: images/aclark-jobs.jpg
+
 .. feed::
    :rss: index.rss
    :title: Alex Clark's Blog
