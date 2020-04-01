@@ -332,3 +332,7 @@ vm: vagrant-init  # Alias
 #APP = app
 .DEFAULT_GOAL=commit-push
 install: pip-install
+
+html: sphinx-build
+build: sphinx-build
+b: sphinx-build
