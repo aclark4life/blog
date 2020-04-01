@@ -29,3 +29,4 @@ Articles
    :title: Alex Clark's Blog
 
    2017/06/26/saml-1-alex-clark-0/index
+   2016/11/23/project-makefile-open-business/index
