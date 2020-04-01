@@ -10,13 +10,15 @@ Alex Clark
    :class: blog-image
    :align: center
 
-President of |aclark_net|. President & Executive Director of |dc_python|. Creator of |python_pillow|. Musician at |headstraight|.
+President of |aclark_net|. President & Executive Director of |dc_python|. Creator of |python_pillow|.
 
 .. code-block:: python
 
     >>> from PIL import Image
     >>> Image.__version__
     '7.1.0'
+
+Musician at |headstraight|.
 
 Articles
 --------
