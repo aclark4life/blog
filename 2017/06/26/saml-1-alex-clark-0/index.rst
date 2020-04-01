@@ -36,7 +36,7 @@ I'm not going to go into too much detail here but for the unfamiliar, the SAML p
 
 After discovering this fact, confusion about this aspect of the SAML protocol lingered and continues to linger. Does that mean the IdP *is* or *contains* the user database? As of right now, I don't think so. But that wasn't clear initially (and still isn't, but perhaps is now "less unclear").
 
-**No, the IdP is not the user database.** Rather, the IdP is "the thing that answers SAML requests in accordance with the protocol's definition of how to do so." But it can't hurt if the IdP needs to go no further than Django's user database to validate an SP's SAML assertion, right? I certainly thought so initially, and spent a whole lot of time trying to make it so.
+No, the IdP is not the user database. Rather, the IdP is "the thing that answers SAML requests in accordance with the protocol's definition of how to do so." But it can't hurt if the IdP needs to go no further than Django's user database to validate an SP's SAML assertion, right? I certainly thought so initially, and spent a whole lot of time trying to make it so.
 
 XML
 ---
