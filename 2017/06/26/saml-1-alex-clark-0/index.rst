@@ -4,7 +4,7 @@ SAML: 1, Alex Clark: 0
 .. feed-entry::
    :date: 2017-06-26
 
-.. image:: images/saml-failure-complete.jpg
+.. image:: _images/saml-failure-complete.jpg
     :alt: Courtesy of quickmeme
     :class: blog-image
 
