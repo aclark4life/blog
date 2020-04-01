@@ -75,3 +75,6 @@ html_sidebars = {
         'searchbox.html',
     ]
 }
+html_show_sourcelink = False
+
+html_add_permalinks = '#'
