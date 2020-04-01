@@ -68,6 +68,7 @@ html_theme_options = {
     'font_family': "Helvetica",
     'donate_url': "https://www.patreon.com/join/aclark4life/checkout?rid=4802806",
     'extra_nav_links': {
+        'Now': '/now',
         'RSS': '/index.rss',
     },
 }

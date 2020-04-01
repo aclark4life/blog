@@ -7,21 +7,27 @@ SAML: 1, Alex Clark: 0
 .. image:: /images/saml-failure-complete.jpg
     :alt: Courtesy of quickmeme
 
-*Courtesy of* `quickmeme <http://www.quickmeme.com/>`_
+Via `quickmeme <http://www.quickmeme.com/>`_
 
 |
 
-Intro
------
+Introduction
+------------
 
-**I don't like to give up on a technical challenge**, particularly when the progress is slow-but-consistent. It's only when I know I can't make any discernible progress easily (or at all) that I can force myself to give up. I'm not talking about giving up for the day and getting back to it. I'm talking about declaring failure and getting back to it WAY later, if at all. Well, this post is about how SAML got the better of me about one month ago. I really wanted this particular task to be successful, but I eventually had to give up and declare the task "too hard for me given the context, and possibly not even a good idea in the first place".
+I don't like to give up on a technical challenge, particularly when the progress is slow-but-consistent. It's only when I know I can't make any discernible progress easily or at all that I can force myself to give up.
 
-Because I don't explicitly mention this anywhere else in the article, I'll mention it now: SAML is used to implement "single sign on". (Cue debate on merits of this approach vs. other approaches e.g. OAuth2.)
+I'm not talking about giving up for the day and getting back to it. I'm talking about declaring failure and getting back to it way later, if at all. Well, this post is about how SAML got the better of me about one month ago. I really wanted this particular task to be successful, but I eventually had to give up and declare the task "too hard for me given the context, and possibly not even a good idea in the first place".
 
-The task
---------
+Because I don't explicitly mention this anywhere else in the article, I'll mention it now:
 
-**The task was to make Django act as a SAML Identity Provider (IdP)**, enough to convince a commercial service, acting as a SAML Service Provider (SP), to use it as one. While I didn't achieve the desired end result, a learned a ton of information about SAML that I never really wanted to know, but feel better and good about now that I know it.
+- SAML is used to implement `single sign on <https://en.wikipedia.org/wiki/Single_sign-on>`_.
+
+Cue debate on the merits of `this approach vs. other approaches e.g. OAuth2 <https://www.mutuallyhuman.com/blog/choosing-an-sso-strategy-saml-vs-oauth2/>`_.
+
+The task at hand
+----------------
+
+The task was to make Django act as a SAML Identity Provider (IdP), enough to convince a commercial service, acting as a SAML Service Provider (SP), to use it as one. While I didn't achieve the desired end result, a learned a ton of information about SAML that I never really wanted to know, but feel better and good about now that I know it.
 
 IdP vs SP
 ---------

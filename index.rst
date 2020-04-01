@@ -6,17 +6,6 @@
 Alex Clark
 ===================================
 
-Now
----
-
-.. toctree::
-   :maxdepth: 1
-
-   now/index.rst
-
-Articles
---------
-
 .. feed::
    :rss: index.rss
    :title: Alex Clark's Blog
