@@ -78,4 +78,4 @@ html_sidebars = {
 }
 html_show_sourcelink = False
 
-# html_add_permalinks = '%'
+html_add_permalinks = '←'
