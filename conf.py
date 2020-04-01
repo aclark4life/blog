@@ -67,7 +67,7 @@ html_theme_options = {
     "font_family": "Helvetica",
     "donate_url": "https://www.patreon.com/join/aclark4life/checkout?rid=4802806",
     "extra_nav_links": {"Now": "/now/index.html", "RSS": "/index.rss",},
-    "canonical_url" = "https://blog.aclark.net/"
+    "canonical_url": "https://blog.aclark.net/",
 }
 
 html_sidebars = {
@@ -78,4 +78,3 @@ html_show_sourcelink = False
 html_add_permalinks = "←"
 
 html_favicon = "images/favicon.ico"
-
