@@ -10,17 +10,13 @@ Alex Clark
    :class: blog-image
    :align: center
 
-Alex Clark is President and co-founder of ACLARKNET.
-
-He has a Bachelor of Science in Computer Science from Loyola University in Maryland and has worked as a Network Engineer, Software Engineer, Systems Administrator and Technical Team Leader since May 1998.
-
-He is also President & Executive Director of DC Python, a non-profit organization he co-founded to promote and support the use of Python software in DC.
-
 .. code-block:: python
 
     >>> from PIL import Image
-    >>> Image.PILLOW_VERSION
+    >>> Image.__version__
     '7.1.0'
+
+President of |aclark_net|. President & Executive Director of |dc_python|. Creator of |python_pillow|. Musician at |headstraight|.
 
 Articles
 --------
@@ -32,3 +28,23 @@ Articles
    2017/06/26/saml-1-alex-clark-0/index
    2016/11/23/project-makefile-open-business/index
    2014/04/07/bro-do-you-even-pillow/index
+   2013/02/23/trading-places-trading-scene-explained/index
+
+.. Links
+
+.. |headstraight| raw:: html
+
+    <a href="http://headstraightband.com" target="_blank">Headstraight</a>
+
+.. |aclark_net| raw:: html
+
+    <a href="https://aclark.net" target="_blank">ACLARKNET</a> 
+
+.. |python_pillow| raw:: html
+
+    <a href="https://python-pillow.org" target="_blank">Python Pillow</a>
+
+.. |dc_python| raw:: html
+
+    <a href="https://dcpython.org" target="_blank">DC Python</a>
+
