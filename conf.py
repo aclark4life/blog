@@ -62,9 +62,9 @@ extensions.append('sphinxcontrib.newsfeed')
 
 # https://alabaster.readthedocs.io/en/latest/customization.html
 html_theme_options = {
-    'logo': 'aclark-jobs.jpg',
-    'github_user': 'python-pillow',
-    'github_repo': 'Pillow',
+#    'logo': 'aclark-jobs.jpg',
+#    'github_user': 'python-pillow',
+#    'github_repo': 'Pillow',
     'show_powered_by': False,
     'show_relbars': True,
 }
