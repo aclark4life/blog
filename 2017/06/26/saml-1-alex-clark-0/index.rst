@@ -55,8 +55,6 @@ First, I spent some time researching the existing available options. I took it a
 
 Eventually I created five, count them five, separate test repositories while tackling SAML. Part of that proliferation-of-repositories is possibly due to some anti-branching sentiment on my part (I'm not really anti-branching, but sometimes I prefer to "start clean" instead of branching):
 
-- https://github.com/aclarktest/django-saml2-sp (Fork of an existing repository that works great as a proof of concept along with https://github.com/aclarktest/django-saml2-idp)
-- https://github.com/aclarktest/django-saml2-idp (Fork of an existing repository that works great as a proof of concept along with https://github.com/aclarktest/django-saml2-sp)
 - https://github.com/aclarktest/django-saml2-test (Where most of my research occurred.)
 - https://github.com/aclarktest/django-samlicious (Let's start over with lessons learned in a new app.)
 - https://github.com/aclarktest/dj-sam (Let's start over again, with a slightly different approach. And here the effort dies; relics remain as a cautionary tale to passersby.)
