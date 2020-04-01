@@ -13,3 +13,5 @@ Alex Clark
 .. feed::
    :rss: index.rss
    :title: Alex Clark's Blog
+
+`index.rss <index.rss>`_
