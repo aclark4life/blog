@@ -65,4 +65,13 @@ html_theme_options = {
     'logo': 'aclark-jobs.jpg',
     'github_user': 'python-pillow',
     'github_repo': 'Pillow',
+    'show_powered_by': False,
+    'show_relbars': True,
+}
+
+html_sidebars = {
+    '**': [
+        'about.html',
+        'searchbox.html',
+    ]
 }
