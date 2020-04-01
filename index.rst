@@ -27,6 +27,7 @@ Articles
    :rss: index.rss
    :title: Alex Clark's Blog
 
+   now/index
    2017/06/26/saml-1-alex-clark-0/index
    2016/11/23/project-makefile-open-business/index
    2014/04/07/bro-do-you-even-pillow/index
