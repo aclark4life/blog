@@ -6,9 +6,24 @@
 Alex Clark
 ===================================
 
-
 .. image:: images/aclark-jobs.jpg
    :align: center
+
+
+Alex Clark is President and co-founder of ACLARKNET LLC.
+
+He has a Bachelor of Science in Computer Science from Loyola University in Maryland and has worked as a Network Engineer, Software Engineer, Systems Administrator and Technical Team Leader since May 1998.
+
+He is also President & Executive Director of DC Python, a non-profit organization he co-founded to promote and support the use of Python software in DC.
+
+.. code-block:: python
+
+    >>> from PIL import Image
+    >>> Image.PILLOW_VERSION
+    '7.1.0'
+
+Articles
+--------
 
 .. feed::
    :rss: index.rss
