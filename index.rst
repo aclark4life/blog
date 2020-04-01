@@ -9,8 +9,7 @@ Alex Clark
 .. image:: images/aclark-jobs.jpg
    :align: center
 
-
-Alex Clark is President and co-founder of ACLARKNET LLC.
+Alex Clark is President and co-founder of ACLARKNET.
 
 He has a Bachelor of Science in Computer Science from Loyola University in Maryland and has worked as a Network Engineer, Software Engineer, Systems Administrator and Technical Team Leader since May 1998.
 
