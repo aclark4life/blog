@@ -53,7 +53,7 @@ Django
 
 First, I spent some time researching the existing available options. I took it as a "red flag" not a lot of folks seemed to be using Django as an IdP, but I thought worst case, I'd be creating an insecure-but-viable-proof-of-concept. And I got close, but lost patience when I couldn't get the commercial Service Provider to validate my SAML assertions (oh, and let's not forget my confusion about SP-initiated vs IdP-initiated logins; I eventually decided that the "flow" of IdP-initiated was simpler and focused mostly on that; SP -> IdP -> SP, vs IdP -> SP.)
 
-Eventually **I created five, count them five, separate repositories while tackling SAML**. Part of that proliferation-of-repositories is *possibly* due to some anti-branching sentiment on my part (I'm not anti-branching, but sometimes I prefer to "start clean" instead of branching):
+Eventually I created five, count them five, separate repositories while tackling SAML. Part of that proliferation-of-repositories is *possibly* due to some anti-branching sentiment on my part (I'm not anti-branching, but sometimes I prefer to "start clean" instead of branching):
 
 - https://github.com/aclarktest/django-saml2-sp (Fork of an existing repository that works great as a proof of concept along with https://github.com/aclarktest/django-saml2-idp)
 - https://github.com/aclarktest/django-saml2-idp (Fork of an existing repository that works great as a proof of concept along with https://github.com/aclarktest/django-saml2-sp)
