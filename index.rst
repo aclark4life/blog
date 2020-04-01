@@ -8,6 +8,7 @@ Alex Clark
 
 
 .. image:: images/aclark-jobs.jpg
+   :align: center
 
 .. feed::
    :rss: index.rss
