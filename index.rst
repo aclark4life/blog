@@ -26,6 +26,7 @@ Articles
 .. feed::
    :rss: index.rss
    :title: Alex Clark's Blog
+   :link: https://blog.aclark.net/
 
    now/index
    2017/06/26/saml-1-alex-clark-0/index

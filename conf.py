@@ -77,5 +77,3 @@ html_show_sourcelink = False
 html_add_permalinks = "←"
 
 html_favicon = "images/favicon.ico"
-
-html_baseurl = "https://blog.aclark.net/"
