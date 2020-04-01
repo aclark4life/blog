@@ -46,7 +46,7 @@ Turns out implementing SAML presents many challenges, one of which is one must "
 Crypto
 ------
 
-You know what's worse than parsing XML? Signing your XML. And you know what's worse than that? **Signing only a portion** of it. (Lingering bitter sentiments from the me-of-one-month-ago.)
+You know what's worse than parsing XML? Signing your XML. And you know what's worse than that? Signing only a portion of it. (Lingering bitter sentiments from the me-of-one-month-ago.)
 
 Django
 ------
