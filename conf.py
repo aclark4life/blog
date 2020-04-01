@@ -65,13 +65,19 @@ html_theme_options = {
     'show_powered_by': False,
     'show_relbars': True,
     'logo_name': True,
-    'font_family': "Helvetica"
+    'font_family': "Helvetica",
+    'donate_url': "https://www.patreon.com/join/aclark4life/checkout?rid=4802806",
+    'extra_nav_links': {
+        'RSS': '/index.rss',
+    },
 }
 
 html_sidebars = {
     '**': [
         'about.html',
         'searchbox.html',
+        'donate.html',
+        'navigation.html',
     ]
 }
 html_show_sourcelink = False

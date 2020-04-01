@@ -6,13 +6,19 @@
 Alex Clark
 ===================================
 
+Now
+---
+
+.. toctree::
+   :maxdepth: 1
+
+   now/index.rst
+
+Articles
+--------
+
 .. feed::
    :rss: index.rss
    :title: Alex Clark's Blog
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-
-   now/index.rst
+   2017/06/26/saml-1-alex-clark-0/index
