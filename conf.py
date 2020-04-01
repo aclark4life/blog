@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'project'
+project = 'Blog'
 copyright = '2020, alexclark'
 author = 'alexclark'
 
