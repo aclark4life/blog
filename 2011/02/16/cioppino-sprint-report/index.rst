@@ -1,8 +1,8 @@
 Cioppino Sprint Report
 ======================
 
-.. post:: 2011/02/16
-    :category: Plone
+.. feed-entry::
+   :date: 2011-02-16
 
 **The Cioppino Sprint was held in Bodega Bay, CA in 2011.**
 
@@ -11,7 +11,7 @@ It was a `beautiful location`_ for a gathering of awesome Plone folks; and much 
 .. image:: /images/bodega.jpg
     :alt: Bodega Bay
     :align: center
-    :class: img-thumbnail
+    :class: blog-image
 
 .. dorneles
 
