@@ -7,7 +7,7 @@ Alex Clark
 ===================================
 
 .. image:: images/aclark-jobs.jpg
-   :class: blog-image blog-image-alex-clark
+   :class: blog-image-alex-clark
 
 
 President of |aclark_net|. President & Executive Director of |dc_python|. Creator of |python_pillow|.

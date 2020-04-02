@@ -8,6 +8,8 @@ body {
 }
 
 .blog-image-alex-clark {
+    border: 6px solid #EEEEEE;
+    border-radius: 6px;
     text-align: center;
 }
 
