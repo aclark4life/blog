@@ -18,8 +18,3 @@ h1 {
 .toctree-l1::before {
     content: "➥ "
 }
-
-
-#alex-clark #text {
-    margin-left: 2rem;
-}
