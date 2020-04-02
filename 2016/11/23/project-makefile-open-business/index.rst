@@ -32,8 +32,8 @@ For month after month as I continued to tweak, the project-makefile repository R
 
     **DO NOT USE THIS**
 
-    At some point I started using a ``Makefile`` in my Python projects. This repository
-    contains that ``Makefile``.
+    At some point I started using a ``Makefile`` in my Python projects.
+    This repository contains that ``Makefile``.
 
     **shrug**
 
