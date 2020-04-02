@@ -99,7 +99,7 @@ event. To that end:
 -  aclark got inspired to begin uploading the half dozen or so missing videos from various Plone Conference 2008 talks (which were finally sent to him by the video company circa last year). Look for these to `land on plone.org`_ soon.
 -  eleddy continued to develop the “two thumbs” feature.
 -  eleddy and aclark deployed the "two thumbs" feature to plone.org.  (This feature may not work as expected yet, eleddy is resolving issues.) Check it out:
--  limi continued to improve the documentation/ and support/ sections of plone.org. Here are some screenshots of how the new sections will look once they launch:
+-  limi continued to improve the documentation/ and support/ sections of plone.org.
 
 That's it! Just so you don't worry the sprinters worked too hard, you can rest assured everyone was in good hands with zenwryly and his travelling-bar.
 
