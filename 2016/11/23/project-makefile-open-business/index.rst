@@ -18,7 +18,7 @@ From that moment it was on: an excuse to finish and talk about the ``Makefile`` 
 Finishing the Makefile
 ----------------------
 
-I started writing slides on the `impressive slides.com <http://slides.com/aclark/project-makefile>`_ then I realized I had to finished the Makefile to finish the slides. This mostly involved deciding on target names and testing target execution.
+I started writing slides on the impressive |slides| then I realized I had to finished the Makefile to finish the slides. This mostly involved deciding on target names and testing target execution.
 
 Finishing the Slides
 --------------------
@@ -56,3 +56,8 @@ I invite everyone to use and contribute!
 .. |cmwg| raw:: html
 
     <a target="_blank" href="http://www.cmwg.org/">Configuration Management Working Group of DC</a>
+
+
+.. |slides| raw:: html
+
+    <a target="_blank" href="http://slides.com/aclark/project-makefile">slides.com</a>
