@@ -9,7 +9,6 @@ body {
 
 h1 {
     text-align: center;
-    margin-left: 1rem;
 }
 
 .toctree-l1 {
@@ -18,4 +17,9 @@ h1 {
 
 .toctree-l1::before {
     content: "→ "
+}
+
+
+#alex-clark {
+    padding-left: 1rem;
 }
