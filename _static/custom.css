@@ -16,7 +16,7 @@ h1 {
 }
 
 .toctree-l1::before {
-    content: "→ "
+    content: "➥ "
 }
 
 
