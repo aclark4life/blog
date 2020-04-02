@@ -42,16 +42,12 @@ Open for Business
 
 Now it looks like this:
 
-
 .. image:: /images/project-makefile-open-for-biz.png
     :class: blog-image
 
-
 I invite everyone to use and contribute!
 
-- https://github.com/aclark4life/project-makefile
-
-|
+- |project-makefile| 
 
 .. |cmwg| raw:: html
 
@@ -61,3 +57,7 @@ I invite everyone to use and contribute!
 .. |slides| raw:: html
 
     <a target="_blank" href="http://slides.com/aclark/project-makefile">slides.com</a>
+
+.. |project-makefile| raw:: html
+
+    <a target="_blank href="https://github.com/aclark4life/project-makefile">https://github.com/aclark4life/project-makefile</a>
