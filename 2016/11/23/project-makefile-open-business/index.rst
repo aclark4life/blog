@@ -45,7 +45,7 @@ Now it looks like this:
 .. image:: /images/project-makefile-open-for-biz.png
     :class: blog-image
 
-I invite everyone to use and contribute!
+I invite everyone to use and contribute.
 
 - |project-makefile|
 
