@@ -6,7 +6,7 @@ Project Makefile Open for Business
 
 **Makefile for Python Web Development & Related Projects**
 
-A while back I was asked to present to the `Configuration Management Working Group of DC <http://www.cmwg.org/`_:
+A while back I was asked to present to the `Configuration Management Working Group of DC <http://www.cmwg.org/>`_:
 
 .. image:: /images/project-makefile-tweet.png
     :align: center
