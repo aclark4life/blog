@@ -44,6 +44,7 @@ Now it looks like this:
 
 
 .. image:: /images/project-makefile-open-for-biz.png
+    :class: blog-image
 
 
 Now I invite everyone to use and contribute!
