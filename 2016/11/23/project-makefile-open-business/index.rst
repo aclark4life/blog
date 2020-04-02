@@ -43,7 +43,7 @@ Open for Business
 Now it looks like this:
 
 
-.. image:: images/project-makefile-open-for-biz.png
+.. image:: /images/project-makefile-open-for-biz.png
 
 
 Now I invite everyone to use and contribute!
