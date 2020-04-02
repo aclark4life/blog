@@ -47,7 +47,7 @@ Now it looks like this:
 
 I invite everyone to use and contribute!
 
-- |project-makefile| 
+- |project-makefile|
 
 .. |cmwg| raw:: html
 
@@ -60,4 +60,4 @@ I invite everyone to use and contribute!
 
 .. |project-makefile| raw:: html
 
-    <a target="_blank href="https://github.com/aclark4life/project-makefile">https://github.com/aclark4life/project-makefile</a>
+    <a target="_blank" href="https://github.com/aclark4life/project-makefile">https://github.com/aclark4life/project-makefile</a>
