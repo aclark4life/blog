@@ -13,7 +13,7 @@ A while back I was asked to present to the |cmwg|.
     :class: blog-image
     :target: https://twitter.com/CMWorkingGrp/status/773228143939293185
 
-From that moment it was on: an excuse to finish and talk about the ``Makefile`` I'd been dragging around formerly since January and informerly much longer.
+From that moment it was on: an excuse to finish and talk about the ``Makefile`` I'd been dragging around formerly since January and informerly for much longer.
 
 Finishing the Makefile
 ----------------------
