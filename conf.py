@@ -68,6 +68,7 @@ html_theme_options = {
     "donate_url": "https://www.patreon.com/join/aclark4life/checkout?rid=4802806",
     "extra_nav_links": {"Now": "/now/index.html", "RSS": "/index.rss",},
     "github_user": "aclark4life",
+    "github_button": True,
 }
 
 html_sidebars = {
