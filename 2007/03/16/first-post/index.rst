@@ -1,16 +1,13 @@
 First Post
 ==========
 
-.. post:: 2007/03/16
-    :category: Buildout, Plone, Python, Zope
-
 **I have decided to start a blog**
 
 |
 
 .. image:: /images/look-at-me.jpg
     :align: center
-    :class: img-thumbnail
+    :class: blog-image
 
 |
 
