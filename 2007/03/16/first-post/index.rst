@@ -1,6 +1,9 @@
 First Post
 ==========
 
+.. feed-entry::
+   :date: 2007-03-16
+
 **I have decided to start a blog**
 
 |
