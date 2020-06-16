@@ -18,7 +18,7 @@ Creator of |python_pillow|.
 
     >>> from PIL import Image
     >>> Image.__version__
-    '7.1.0'
+    '7.2.0'
 
 Musician at |headstraight|.
 
