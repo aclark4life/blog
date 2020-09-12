@@ -6,16 +6,16 @@
 Alex Clark
 ===================================
 
-:-)
+Welcome
+
+.. image:: images/aclark-jobs.jpg
+   :class: blog-image
+   :align: center
 
 - President of |aclark_net|.
 - President & Executive Director of |dc_python|.
 - Musician at |headstraight|.
 - Creator of |python_pillow|.
-
-.. image:: images/aclark-jobs.jpg
-   :class: blog-image
-   :align: center
 
 .. raw:: html
 
