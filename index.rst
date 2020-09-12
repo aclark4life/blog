@@ -6,21 +6,20 @@
 Alex Clark
 ===================================
 
+President of |aclark_net|.
+President & Executive Director of |dc_python|.
+Musician at |headstraight|.
+Creator of |python_pillow|.
+
 .. image:: images/aclark-jobs.jpg
    :class: blog-image
    :align: center
-
 
 .. code-block:: python
 
     >>> from PIL import Image
     >>> Image.__version__
     '7.2.0'
-
-President of |aclark_net|.
-President & Executive Director of |dc_python|.
-Musician at |headstraight|.
-Creator of |python_pillow|.
 
 .. raw:: html
 
