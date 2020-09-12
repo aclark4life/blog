@@ -15,10 +15,6 @@ Alex Clark
 - Musician at |headstraight|.
 - Creator of |python_pillow|.
 
-.. raw:: html
-
-    <iframe src="https://ghbtns.com/github-btn.html?user=aclark4life&type=follow&count=true" frameborder="0" scrolling="0"></iframe>
-
 Articles
 --------
 
