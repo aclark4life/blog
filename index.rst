@@ -6,13 +6,10 @@
 Alex Clark
 ===================================
 
-President of |aclark_net|. President & Executive Director of |dc_python|.
-
 .. image:: images/aclark-jobs.jpg
    :class: blog-image
    :align: center
 
-Creator of |python_pillow|.
 
 .. code-block:: python
 
@@ -20,7 +17,10 @@ Creator of |python_pillow|.
     >>> Image.__version__
     '7.2.0'
 
+President of |aclark_net|.
+President & Executive Director of |dc_python|.
 Musician at |headstraight|.
+Creator of |python_pillow|.
 
 .. raw:: html
 
