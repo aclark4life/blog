@@ -6,8 +6,6 @@
 Alex Clark
 ===================================
 
-Welcome
-
 .. image:: images/aclark-jobs.jpg
    :class: blog-image
    :align: center
