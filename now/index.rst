@@ -12,7 +12,7 @@ I'm in Bethesda, MD, USA spending all my time on:
 - **Musician** at |headstraight|.
 - **Creator** of |python_pillow|.
 
-Last updated March 2020. More |now|.
+Last updated September 2020. More |now|.
 
 .. https://stackoverflow.com/a/11718325/185820
 
