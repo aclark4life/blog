@@ -6,9 +6,13 @@
 Alex Clark
 ===================================
 
+|
+
 .. image:: images/aclark-jobs.jpg
    :class: blog-image
    :align: center
+
+|
 
 - Musician at |headstraight|
 - Creator of |python_pillow|
