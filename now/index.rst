@@ -7,12 +7,12 @@ What I'm doing now
 
 I'm in Bethesda, MD, USA spending all my time on:
 
-- **President** of |aclark_net|.
-- **President & Executive Director** of |dc_python|.
 - **Musician** at |headstraight|.
 - **Creator** of |python_pillow|.
+- **President** of |aclark_net|.
+- **President & Executive Director** of |dc_python|.
 
-Last updated September 2020. More |now|.
+Last updated November 2020. More |now|.
 
 .. https://stackoverflow.com/a/11718325/185820
 
