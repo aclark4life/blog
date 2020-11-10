@@ -15,8 +15,6 @@ Alex Clark
 - President of |aclark_net|
 - President & Executive Director of |dc_python|
 
-👍
-
 Articles
 --------
 
