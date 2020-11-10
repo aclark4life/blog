@@ -10,10 +10,10 @@ Alex Clark
    :class: blog-image
    :align: center
 
-- President of |aclark_net|
-- President & Executive Director of |dc_python|
 - Musician at |headstraight|
 - Creator of |python_pillow|
+- President of |aclark_net|
+- President & Executive Director of |dc_python|
 
 👍
 
