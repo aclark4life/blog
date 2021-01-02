@@ -55,4 +55,3 @@ Articles
 .. |dc_python| raw:: html
 
     <a href="https://dcpython.org" target="_blank">DC Python</a>
-
