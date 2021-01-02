@@ -8,11 +8,11 @@ What I'm doing now
 I'm in Bethesda, MD, USA spending all my time on:
 
 - **Musician** at |headstraight|.
-- **Creator** of |python_pillow|.
 - **President** of |aclark_net|.
+- **Creator** of |python_pillow|.
 - **President & Executive Director** of |dc_python|.
 
-Last updated November 2020. More |now|.
+Last updated January 2021. More |now|.
 
 .. https://stackoverflow.com/a/11718325/185820
 
