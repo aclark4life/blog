@@ -1,7 +1,7 @@
 Babel==2.8.0
 Jinja2==2.11.1
 MarkupSafe==1.1.1
-Pygments==2.6.1
+Pygments==2.7.4
 Sphinx==2.4.4
 alabaster==0.7.12
 certifi==2019.11.28
