@@ -24,7 +24,7 @@ Last updated November 2021. More |now|.
 
 .. |aclark_net| raw:: html
 
-    <a href="https://aclark.net" target="_blank">ACLARKNET</a> 
+    <a href="https://aclark.net" target="_blank">ACLARK.NET, LLC</a> 
 
 .. |python_pillow| raw:: html
 
