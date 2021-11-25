@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = "Blog"
-copyright = " 2021 Jeffrey Alexander (Alex) Clark"
-author = " Jeffrey Alexander (Alex) Clark"
+copyright = " 2021 Jeffrey A. Clark, 'Alex'"
+author = " Jeffrey A. Clark, 'Alex'"
 
 # The short X.Y version
 version = ""
