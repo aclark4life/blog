@@ -1,0 +1,20 @@
+body {
+    background: #EEEEEE;
+}
+
+.blog-image {
+    border: 6px solid #EEEEEE;
+    border-radius: 6px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.toctree-l1 {
+    margin: 0.5rem 0 0.5rem 0;
+}
+
+.toctree-l1::before {
+    content: "➥ "
+}
