@@ -80,6 +80,6 @@ html_permalinks = True
 html_permalinks_icon = "←"
 
 
-html_favicon = "images/favicon.ico"
+html_favicon = "images/aclark-jobs.jpg"
 
 html_title = "Blog"
