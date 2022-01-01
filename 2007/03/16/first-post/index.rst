@@ -38,6 +38,8 @@ and having a working instance a few seconds later with Product{A,B,C} installed.
 
 |
 
+.. https://stackoverflow.com/a/11718325
+
 .. |planet_plone| raw:: html
 
    <a href="https://planet.plone.org" target="_blank">Plone blogs</a>
