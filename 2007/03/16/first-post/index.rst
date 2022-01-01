@@ -4,7 +4,7 @@ First Post
 .. feed-entry::
    :date: 2007-03-16
 
-**I have decided to start a blog**
+I have decided to start a blog.
 
 |
 
@@ -14,9 +14,9 @@ First Post
 
 |
 
-Why? To show Plone can be used for blogging, but also:
+Why? Because Plone allows me to do so. But also:
 
-- I have been reading a lot of `Plone blogs <http://planet.plone.org>`_ lately and they have inspired me to write my own.
+- I have been reading a lot of |planet_plone| lately and they have inspired me to write my own.
 - I want to interact with other Plone users.
 - I want to use new technology.
 
@@ -33,3 +33,9 @@ I used Buildout for the first time at the `Baarn UI Sprint 2007 <https://old.plo
     newzope test-site ProductA ProductB ProductC
 
 and having a working instance a few seconds later with Product{A,B,C} installed.
+
+|
+
+.. |planet_plone| raw:: html
+
+   <a href="https://planet.plone.org" target="_blank">Plone blogs</a>
