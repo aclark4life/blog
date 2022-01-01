@@ -3,6 +3,8 @@
 First Post
 ==========
 
+|
+
 .. feed-entry::
    :date: 2007-03-16
 
@@ -26,7 +28,7 @@ To that end, this post is about my `build tools <http://svn.plone.org/svn/collec
 - `Buildit <https://agendaless.com/software/Members/chrism/software/buildit/>`_
 - `Instance Manager <https://old.plone.org/products/instance-manager>`_
 
-I used Buildout for the first time at the `Baarn UI Sprint 2007 <https://old.plone.org/events/sprints/past-sprints/baarn-ui-sprint-2007>`_ and I've also used Chris McDonough's Buildit. There are even more to choose from, but for now I enjoy typing:
+I used Buildout for the first time at the |baarn_sprint| and I've also used Chris McDonough's Buildit. There are even more to choose from, but for now I enjoy typing:
 
 ::
 
@@ -39,3 +41,7 @@ and having a working instance a few seconds later with Product{A,B,C} installed.
 .. |planet_plone| raw:: html
 
    <a href="https://planet.plone.org" target="_blank">Plone blogs</a>
+
+.. |baarn_sprint| raw:: html
+
+   <a href="https://web.archive.org/web/20071012114759/http://plone.org/events/sprints/past-sprints/baarn-ui-sprint-2007" target="_blank">Baarn UI Sprint 2007</a>
