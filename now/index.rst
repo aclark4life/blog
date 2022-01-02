@@ -7,6 +7,8 @@ What I'm doing now
    :class: blog-image
    :align: center
 
+|
+
 I'm in Bethesda, MD, USA spending all my time on:
 
 - Musician at |headstraight|.
