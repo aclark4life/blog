@@ -43,7 +43,9 @@ The problem is that sometimes the filenames have spaces in them which will cause
 
     xargs: unterminated quote
 
-Useless. The best fix I've managed to come up with which I couldn't recall hence the blog post, is to replace the beginning and end of the line with quotes to make the shell happy, e.g.
+Useless.
+
+The best fix I've managed to come up with which I couldn't recall hence the blog post, is to replace the beginning and end of the line with quotes to make the shell happy. E.g.
 
 .. raw:: html
 
