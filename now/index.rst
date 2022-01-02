@@ -16,6 +16,8 @@ I'm in Bethesda, MD, USA spending all my time on:
 
 Last updated January 2022. More |now|
 
+|
+
 .. https://stackoverflow.com/a/11718325/185820
 
 .. |headstraight| raw:: html
