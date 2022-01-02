@@ -1,3 +1,5 @@
+|
+
 What I'm doing now
 ==================
 
@@ -7,10 +9,10 @@ What I'm doing now
 
 I'm in Bethesda, MD, USA spending all my time on:
 
-- **Musician** at |headstraight|.
-- **Creator** of |python_pillow|.
-- **President** of |aclark_net|.
-- **President & Executive Director** of |dc_python|.
+- Musician at |headstraight|.
+- Creator of |python_pillow|.
+- President of |aclark_net|.
+- President & Executive Director** of |dc_python|.
 
 Last updated January 2022. More |now|.
 
