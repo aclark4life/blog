@@ -22,7 +22,7 @@ I have decided to start a blog. Why? Because Plone allows me to do so. But also:
 - I want to interact with other Plone users.
 - I want to use new technology.
 
-To that end, this post is about my `build tools <http://svn.plone.org/svn/collective/newzope>`_. But first I'll note the current, likely better, alternatives:
+To that end, this post is about my |build_tools|. But first I'll note these current and likely better alternatives:
 
 - `Buildout <http://www.buildout.org>`_
 - `Buildit <https://agendaless.com/software/Members/chrism/software/buildit/>`_
@@ -47,3 +47,7 @@ and having a working instance a few seconds later with Product{A,B,C} installed.
 .. |baarn_sprint| raw:: html
 
    <a href="https://web.archive.org/web/20071012114759/http://plone.org/events/sprints/past-sprints/baarn-ui-sprint-2007" target="_blank">Baarn UI Sprint 2007</a>
+
+.. |build_tools| raw:: html
+
+   <a href="http://svn.plone.org/svn/collective/newzope" target="_blank">build tools</a>
