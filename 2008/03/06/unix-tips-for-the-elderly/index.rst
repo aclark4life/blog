@@ -3,11 +3,17 @@
 UNIX Tips For The Elderly
 =========================
 
+|
+
 .. feed-entry::
    :date: 2008-03-06
 
+|
+
 .. image:: /images/huh.png
     :align: center
+
+|
 
 .. raw:: html
 
