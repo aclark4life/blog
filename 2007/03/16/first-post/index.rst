@@ -24,9 +24,9 @@ I have decided to start a blog. Why? Because Plone allows me to do so. But also:
 
 To that end, this post is about my |build_tools|. But first I'll note these current and likely better alternatives:
 
-- `Buildout <http://www.buildout.org>`_
-- `Buildit <https://agendaless.com/software/Members/chrism/software/buildit/>`_
-- `Instance Manager <https://old.plone.org/products/instance-manager>`_
+- |buildout|
+- ~Buildit~
+- ~Instance Manager~
 
 I used Buildout for the first time at the |baarn_sprint| and I've also used Chris McDonough's Buildit. There are even more to choose from, but for now I enjoy typing:
 
@@ -50,4 +50,8 @@ and having a working instance a few seconds later with Product{A,B,C} installed.
 
 .. |build_tools| raw:: html
 
-   <a href="http://svn.plone.org/svn/collective/newzope" target="_blank">build tools</a>
+   <a href="https://svn.plone.org/svn/collective/newzope" target="_blank">build tools</a>
+
+.. |buildout| raw:: html
+
+   <a href="https://buildout.org" target="_blank">Buildout</a>
