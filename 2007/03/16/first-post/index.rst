@@ -28,7 +28,9 @@ To that end, this post is about my |build_tools|. But first I'll note these curr
 - Buildit
 - Instance Manager
 
-I used Buildout for the first time at the |baarn_sprint| and I've also used Chris McDonough's Buildit. There are even more to choose from, but for now I enjoy typing:
+I used Buildout for the first time at the |baarn_sprint| and I've also used Chris McDonough's Buildit.
+
+There are even more to choose from, but for now I enjoy typing:
 
 ::
 
