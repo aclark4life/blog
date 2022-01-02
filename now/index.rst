@@ -1,9 +1,9 @@
 What I'm doing now
 ==================
 
-.. raw:: html
-
-   <blockquote class="twitter-tweet"><p lang="en" dir="ltr">How it started. How it&#39;s going. (2021) <a href="https://t.co/UDseq5IHFS">pic.twitter.com/UDseq5IHFS</a></p>&mdash; Alex Clark (@aclark4life) <a href="https://twitter.com/aclark4life/status/1448986992541319176?ref_src=twsrc%5Etfw">October 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+.. image:: images/aclark-distant.jpg
+   :class: blog-image
+   :align: center
 
 I'm in Bethesda, MD, USA spending all my time on:
 
