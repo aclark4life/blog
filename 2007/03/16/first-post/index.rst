@@ -14,6 +14,19 @@ First Post
     :align: center
     :class: blog-image
 
+.. https://stackoverflow.com/a/6652379
+
+.. role:: strike
+    :class: strike
+
+.. raw:: html
+
+    <style>
+    .strike {
+      text-decoration: line-through;
+    }
+    </style>
+
 |
 
 I have decided to start a blog. Why? Because Plone allows me to do so. But also:
@@ -25,8 +38,8 @@ I have decided to start a blog. Why? Because Plone allows me to do so. But also:
 To that end, this post is about my |build_tools|. But first I'll note these current and likely better alternatives:
 
 - |buildout|
-- Buildit
-- Instance Manager
+- :strike:`Buildit`
+- :strike:`Instance Manager`
 
 I used Buildout for the first time at the |baarn_sprint| and I've also used Chris McDonough's Buildit.
 
