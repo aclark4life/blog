@@ -3,11 +3,11 @@
 What I'm doing now
 ==================
 
+|
+
 .. image:: /images/aclark-distant.jpg
    :class: blog-image
    :align: center
-
-|
 
 I'm in Bethesda, MD, USA spending all my time on:
 
