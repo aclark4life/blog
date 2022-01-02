@@ -1,7 +1,7 @@
 What I'm doing now
 ==================
 
-.. image:: images/aclark-distant.jpg
+.. image:: /images/aclark-distant.jpg
    :class: blog-image
    :align: center
 
