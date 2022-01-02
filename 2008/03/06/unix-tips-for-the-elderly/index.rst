@@ -1,17 +1,19 @@
+|
+
 UNIX Tips For The Elderly
 =========================
 
-.. post:: 2008/03/06
-    :category: Misc
+.. feed-entry::
+   :date: 2008-03-06
 
 .. image:: /images/huh.png
+    :align: center
 
 .. raw:: html
 
     <style>
     pre.prompt:before { content: '$ ' }
     </style>
-
 
 I often want to do something to a bunch of files on the filesystem.
 
