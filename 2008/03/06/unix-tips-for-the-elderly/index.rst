@@ -47,7 +47,7 @@ Useless. The best fix I've managed to come up with which I couldn't recall hence
 
     "Music//iTunes/iTunes Music/Yael Naïm/Yael Naïm/03 New Soul.m4a"
 
-So I can do things like:
+So now I can do things like:
 
 .. raw:: html
 
@@ -70,3 +70,5 @@ or
 ::
 
     Music//iTunes/iTunes Music/Yael Naïm/Yael Naïm/03 New Soul.m4a: ISO Media, MPEG v4 system, iTunes AAC-LC
+
+|
