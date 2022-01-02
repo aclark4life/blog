@@ -36,4 +36,4 @@ Last updated January 2022. More |now|.
 
 .. |now| raw:: html
 
-    <a href="https://nownownow.com" target="_blank">sites with a now page</a>
+    <a href="https://nownownow.com" target="_blank">sites with a now page…</a>
