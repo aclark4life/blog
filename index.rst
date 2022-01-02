@@ -28,13 +28,12 @@ Articles
 
    2007/03/16/first-post/index
    2008/03/06/unix-tips-for-the-elderly/index
+   now/index
 
 .. feed::
    :rss: index.rss
    :title: Alex Clark's Blog
    :link: https://blog.aclark.net/
-
-   now/index
 
 .. Links
 
