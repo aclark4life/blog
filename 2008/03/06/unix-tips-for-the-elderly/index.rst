@@ -13,7 +13,7 @@ UNIX Tips For The Elderly
     </style>
 
 
-**I often want to do something to a bunch of files on the filesystem.**
+I often want to do something to a bunch of files on the filesystem.
 
 E.g.
 
