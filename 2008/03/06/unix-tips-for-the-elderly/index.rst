@@ -71,7 +71,7 @@ So now I can do things like:
 
     Music//iTunes/iTunes Music/Yael Naïm/Yael Naïm/03 New Soul.m4a
 
-or
+Or:
 
 .. raw:: html
 
