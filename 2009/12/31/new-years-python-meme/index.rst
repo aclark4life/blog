@@ -42,7 +42,7 @@ What’s the name of the open source project you contributed the most in 2009? W
 - I dug out from |Plone Conference 2008|, which included publishing the |videos and slides|.
 - I helped move plone.org to Six Feet Up, and have been looking after it as well as |other infrastructure issues|.
 - I worked on a book called Plone 3.3 Site Administration, which will most likely come out in early 2010. I hope the community will find it useful.
-- I contributed a new feature to Plone 4.
+- I contributed a |new feature to Plone 4|.
 
 What was the Python blog or website you read the most in 2009?
 --------------------------------------------------------------
@@ -87,3 +87,8 @@ Happy New Year, everyone!
 .. |zenoss| raw:: html
 
    <a href="https://zenoss.com" target="_blank">Zenoss</a>
+
+.. |new feature to plone 4| raw:: html
+
+   <a href="https://lists.plone.org/pipermail/plone-plip-advisories/2009-June/001652.html" target="_blank">new feature to plone 4</a>
+
