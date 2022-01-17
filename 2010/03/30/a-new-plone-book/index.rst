@@ -53,8 +53,8 @@ In Chapters 2-7, we present various buildout configuration files that correspond
 
 In the final Chapter 8, we cover new technologies like XDV and repoze.zope2 which may become more mainstream once you decide to start using them (although the latter seems more like a toy to keep us busy until the real fix arrives: full WSGI support in Zope 2.
 
-When Will it Arrive?
---------------------
+When it will Arrive
+-------------------
 
 PACKT originally announced the book will arrive in March and I have been working non-stop since mid-March to make sure it gets out the door as quickly as possible. I expect it to be available sson. I apologize to those of you who have pre-ordered and are now waiting for it.
 
