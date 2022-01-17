@@ -1,12 +1,12 @@
-Project Makefile Open for Business
-==================================
+|
+
+Project Makefile
+================
 
 .. feed-entry::
    :date: 2016-11-23
 
-**Makefile for Python Web Development & Related Projects**
-
-A while back I was asked to present to the |cmwg|.
+Makefile for Python Web Development & Related Projects. Open for Business. A while back I was asked to present to the |cmwg|.
 
 .. image:: /images/project-makefile-tweet.png
     :align: center

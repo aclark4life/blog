@@ -36,7 +36,7 @@ Articles
    2013/02/23/trading-places-trading-scene-explained/index
    2014/10/02/pillow-runs-itself/index
    2015/02/10/please-do-my-homework/index
-   2016/11/23/project-makefile-open-business/index
+   2016/11/23/project-makefile/index
    now/index
 
 |
