@@ -24,9 +24,17 @@ Additional thanks to Christoph Gohlke for |Windows Eggs, Exes, Wheels|, Matthew 
 Lastly thanks to all the contributors from all over the world who continue to develop and improve Pillow. I used to keep a list, but now there are |too many to keep track of|.
 
 
-.. [1] `Eric <https://twitter.com/wiredfool>`_ and `Hugo <https://twitter.com/hugovk>`_.
+.. [1] |Eric| and |Hugo|.
 
 |
+
+.. |Eric| raw:: html
+
+   <a href="https://twitter.com/wiredfool" target="_blank">Eric</a>
+
+.. |Hugo| raw:: html
+
+   <a href="https://twitter.com/hugovk" target="_blank">Hugo</a>
 
 .. |Pillow project| raw:: html
 
