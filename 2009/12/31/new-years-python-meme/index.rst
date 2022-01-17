@@ -13,6 +13,11 @@ New Year's Python Meme
 .. image:: /images/lenin_packaging.png 
     :align: center
 
+.. https://stackoverflow.com/a/6652379
+
+.. role:: strike
+    :class: strike
+
 |
 
 .. raw:: html
