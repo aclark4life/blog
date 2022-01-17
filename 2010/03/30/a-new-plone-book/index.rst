@@ -86,7 +86,7 @@ Possibly. I am sensitive to the phenomenon of "Plone book diarrhea" and I do thi
 
 .. |Plone Conference 2008| raw:: html
 
-   <a href="http://plone.org/2008" target="_blank">Plone Conference 2008</a>
+   <a href="https://plone.org/events/plone-conferences/washington-dc-2008" target="_blank">Plone Conference 2008</a>
 
 .. _Professional Plone Development: https://www.packtpub.com/Professional-Plone-web-applications-CMS/book
 .. _Plone 3.3 Site Administration: https://www.packtpub.com/plone-3-3-site-administration/book
