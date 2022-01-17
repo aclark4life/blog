@@ -29,7 +29,7 @@ This book aims to "lower the Plone bar for users of Python". What do I mean by t
 
 So, this book begins at the beginning: by making sure folks are comfortable installing and using Python on there operating system of choice (or using the pre-installed Python). If you read Professional Plone Development, you may recall Martin Aspeli saying at the beginning of Chapter 3:
 
-    We will assume that Python 2.4 gets invoked when you run python on the command line.
+    "We will assume that Python 2.4 gets invoked when you run python on the command line."
 
 This book does not make that assumption and tries to cover everything you may need to know after installing your operating system up to that point.
 
