@@ -20,7 +20,7 @@ Kudos to them for making my life easier and for continuing to provide the Python
 
 Additionally thanks to all the contributors from all over the world who continue to develop and improve Pillow. I used to keep a list, but now there are `too many to keep track of <https://github.com/python-pillow/Pillow/graphs/contributors>`_.
 
-.. [1] `Eric Soroos <https://twitter.com/wiredfool>`_ and `Hugo VK <https://twitter.com/hugovk>`_. Additional thanks to Christoph Gohlke for `Windows Eggs, Exes, Wheels <https://pypi.python.org/pypi/Pillow/2.6.0#downloads>`_, Matthew Brett for `OS X Wheels <https://github.com/python-pillow/Pillow/issues/766>`_, and Steve Johnson for `Sphinx Documentation <https://github.com/python-pillow/Pillow/issues/769>`_.
+.. [1] `Wiredfool <https://twitter.com/wiredfool>`_ and `Hugo <https://twitter.com/hugovk>`_. Additional thanks to Christoph Gohlke for `Windows Eggs, Exes, Wheels <https://pypi.python.org/pypi/Pillow/2.6.0#downloads>`_, Matthew Brett for `OS X Wheels <https://github.com/python-pillow/Pillow/issues/766>`_, and Steve Johnson for `Sphinx Documentation <https://github.com/python-pillow/Pillow/issues/769>`_.
 
 |
 
