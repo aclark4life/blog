@@ -1,6 +1,6 @@
 |
 
-UNIX Tips For The Elderly
+UNIX Tips for the Elderly
 =========================
 
 |
