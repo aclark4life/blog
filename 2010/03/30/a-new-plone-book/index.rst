@@ -40,7 +40,7 @@ Buildout
 
 This book is largely a response to the ``"Oh no! I have to use Buildout to install Plone and its add-ons!"`` sentiment that has been prevalent since Buildout was first introduced to Plone several years ago. I don't know if Buildout was the "right" way to go, but I do know that I love using it and I would like to help others feel the same way.
 
-The bottom line is this: Plone made a conscious decision to "become more Pythonic" by using eggs. With that choice came more complexity from potential conflicts between eggs. Buildout is one solution to that problem. Unfortunately, it introduces other problems like cryptic error messages and a certain too-many-moving-parts-ness.
+The bottom line is this: Plone made a conscious decision to ``"become more Pythonic"`` by using eggs. With that choice came more complexity from potential conflicts between eggs. Buildout is one solution to that problem. Unfortunately, it introduces other problems like cryptic error messages and a certain too-many-moving-parts-ness.
 
 Let me correct myself: I am fairly certain Buildout was the right way to go at the time. What I am not sure about is where to go from here. It would be nice to get back to a place where folks could just drop packages in to a directory (I don't literally mean going back to old-style products, but perhaps we could provide that type of functionality again somehow). But I don't have an answer for that. In the meantime, let's make everyone more comfortable with using Buildout.
 
@@ -49,7 +49,7 @@ About The Rest of the Book
 
 The book teaches you to find your way around Buildout and Plone. Whether you choose to follow along and build your site from scratch using only Buildout (and a paper clip) or if you use one of the Buildout-based installers (like the Unified Installer), this book aims to make you more competent and comfortable performing a variety of Buildout-related tasks.
 
-In Chapters 2-7, we present various buildout configuration files that correspond to specific tasks that are related to various subjects, e.g. theming, maintenance, and optimization. The reader is expected to "know how to write a buildout.cfg file" by the end.
+In Chapters 2-7, we present various buildout configuration files that correspond to specific tasks that are related to various subjects, e.g. theming, maintenance, and optimization. The reader is expected to ``"know how to write a buildout.cfg file"`` by the end.
 
 In the final Chapter 8, we cover new technologies like XDV and repoze.zope2 which may become more mainstream once you decide to start using them (although the latter seems more like a toy to keep us busy until the real fix arrives: full WSGI support in Zope 2.
 
