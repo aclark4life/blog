@@ -32,8 +32,8 @@ In the movie, the Dukes plan to cheat. But the "good guys" (Valentine and Winthr
 | **Prices**      |  HIGH      |  LOW       |
 +-----------------+------------+------------+
 
-Important Plot Detail #2
-------------------------
+Important Plot Detail #2: Cornering the Market
+----------------------------------------------
 
 Remember, the Dukes plan to cheat AKA |cornering the market|. And as |Chris Carter says|:
 
