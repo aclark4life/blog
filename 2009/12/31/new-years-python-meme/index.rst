@@ -27,7 +27,7 @@ New Year's Python Meme
 What’s the coolest Python application, framework or library you have discovered in 2009?
 ----------------------------------------------------------------------------------------
 
-That would be |Zenoss|. I'm very impressed with the application as well as the community, which is awesome. They remind me a lot of the Plone community; I think the two can learn a lot from each other.
+That would be |Zenoss|. I'm very impressed with the application as well as the community, which is awesome. They remind me a lot of the Plone community. I think the two can learn a lot from each other.
 
 What new programming technique did you learn in 2009?
 -----------------------------------------------------
