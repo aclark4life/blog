@@ -72,4 +72,6 @@ I found a bunch of cool Python tooling for dealing with all-things-SAML that I w
 - https://github.com/mehcode/python-saml (saml on PyPI)
 - https://github.com/dlitz/pycrypto (secure hash functions!)
 
-TLDR: Consider a commercial IdP like OneLogin or Auth0.
+Consider a commercial IdP like OneLogin or Auth0.
+
+|
