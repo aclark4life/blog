@@ -10,14 +10,14 @@ Please Do My Homework
 
 |
 
-I am being driven insane by Redditors asking |r_Python| to do their homework for them. E.g.
+I am being driven insane by redditors asking |r_Python| to do their homework for them. E.g.
 
 .. image:: /images/homework1.png
     :alt: Question #1
     :align: center
     :class: blog-image
 
-I have no problem with Redditors asking questions on |r_Python| that are better suited to |r_learnpython|. E.g.
+I have no problem with redditors asking questions on |r_Python| that are better suited to |r_learnpython|. E.g.
 
 .. image:: /images/homework2.png
     :alt: Question #2
