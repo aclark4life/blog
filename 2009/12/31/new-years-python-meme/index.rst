@@ -15,11 +15,6 @@ New Year's Python Meme
 
 |
 
-.. https://stackoverflow.com/a/6652379
-
-.. role:: strike
-    :class: strike
-
 .. raw:: html
 
     <a href="https://ziade.org/2009/12/28/new-years-python-meme/" target="_blank">Tarek's new thing</a>.
@@ -56,7 +51,7 @@ What are the three top things you want to learn in 2010?
 - :strike:`WSGI`
 - :strike:`Plone 4 core development`
 
-Happy New Year everyone!
+Happy New Year, everyone!
 
 |
 

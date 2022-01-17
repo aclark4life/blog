@@ -14,6 +14,11 @@ Jeffrey A. Clark, "Alex"
    :class: blog-image
    :align: center
 
+.. https://stackoverflow.com/a/6652379
+
+.. role:: strike
+    :class: strike
+
 |
 
 - Musician at |headstraight|
