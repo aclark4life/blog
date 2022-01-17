@@ -16,7 +16,7 @@ I'm in Bethesda, MD, USA spending all my time on:
 - Musician at |headstraight|.
 - Creator of |python_pillow|.
 - President of |aclark_net|.
-- President & Executive Director** of |dc_python|.
+- President & Executive Director of |dc_python|.
 
 Last updated January 2022. More |now|
 
