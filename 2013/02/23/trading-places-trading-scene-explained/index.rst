@@ -1,7 +1,16 @@
+|
+
 Trading Places Trading Scene Explained
 ======================================
 
-**Every time I watch Trading Places I have to search the internet for an explanation of the climactic commodities trading scene.**
+|
+
+.. feed-entry::
+   :date: 2013-02-23
+
+|
+
+Every time I watch Trading Places I have to search the internet for an explanation of the climactic commodities trading scene.
 
 Every time I watch the movie `Trading Places <http://www.imdb.com/title/tt0086465>`_, I have to search the internet for an explanation of the climactic commodities trading scene. It usually takes me about 20 minutes to (re-)understand it, then another 10 minutes to explain it to my wife. Although there are `plenty <http://www.wisebread.com/explaining-the-climax-scene-of-trading-places>`_ `of <http://www.popmodal.com/video/1277/Trading-Places-Final-Exchange-Scene-amp-Explanation>`_ `great <http://www.dangerouslogic.com/trading_places.html>`_ `answers <http://justurbanism.com/2011/03/26/how_the_trading_places_final_scene_works/>`_ available, none of them really "speak" to me; so I decided to write my own. The goal for me is to be able to (re-)read my explanation and understand it enough to explain to someone else in less than 5 minutes.
 
@@ -12,18 +21,18 @@ Important Plot Detail #1
 
 The Crop Reports, real and fake. In the movie, the Dukes plan to cheat. But the "good guys" (Valentine and Winthrope) foil them by replacing their stolen, ill-gotten crop report with a fake. This allows the "good guys" to win. To understand the reverse-swindle, you must understand the crop reports (real and fake) and the market repercussions of each:
 
-+------------+----------+----------+
-|            |**Report**|**Report**|
-|            |**(FAKE)**|**(REAL)**|
-+------------+----------+----------+
-|**Weather** | BAD      | GOOD     |
-+------------+----------+----------+
-|**Harvest** | LOW      | HIGH     |
-|**(i.e. #** |          |          |
-|**oranges)**|          |          |
-+------------+----------+----------+
-|**Prices**  | HIGH     | LOW      |
-+------------+----------+----------+
++-----------------+------------+------------+
+|                 | **Report** | **Report** |
+|                 | **(FAKE)** | **(REAL)** |
++-----------------+------------+------------+
+| **Weather**     |  BAD       |  GOOD      |
++-----------------+------------+------------+
+| **Harvest**     |  LOW       |  HIGH      |
+| **(i.e. #**     |            |            |
+| **oranges)**    |            |            |
++-----------------+------------+------------+
+| **Prices**      |  HIGH      |  LOW       |
++-----------------+------------+------------+
 
 Important Plot Detail #2
 ------------------------
@@ -50,4 +59,6 @@ Ding! Ding! Ding! So after all this, here's what's really happening: **the "good
 
 Finally, the "good guys" are able to buy enough to contracts to fulfill the number of "short" sales they made. And they are able to purchase them for much less then they made the "short" sales for. Profit!
 
-Does it make sense now? If not, `let me know <https://twitter.com/aclark4life>`_ in the comments.
+Does it make sense now? If not, `let me know <https://twitter.com/aclark4life>`_. 
+
+|
