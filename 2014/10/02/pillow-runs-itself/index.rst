@@ -14,7 +14,7 @@ As of Pillow 2.6.0, the Pillow project runs itself! Of course when I say "runs i
 
 - Turn off GitHub Watching until two weeks before the release.
 - Not run `setup.py upload` or `twine upload` myself.
-- Watch in awe as Pillow Men #s 2 & 3 did all the work. [1]
+- Watch in awe as the Pillow team did all the work. [1]
 
 Kudos to these gentlemen for making my life easier and for continuing to provide the Python community with a featureful, modern & secure Python Imaging Library.
 
