@@ -18,7 +18,7 @@ A New Plone Book
 Plone 3.3 Site Administration
 -----------------------------
 
-If |Plone Conference 2006| was my inspiration for |Plone Conference 2008|, then `Professional Plone Development`_ was my inspiration for this book: `Plone 3.3 Site Administration`_.
+If |Plone Conference 2006| was my inspiration for |Plone Conference 2008|, then Professional Plone Development was my inspiration for this book: |Plone 3.3 Site Administration|.
 
 For the past 14 months or so, I have been writing a book aimed at end users of Plone; folks that have little knowledge of how to do much more than add content. It is intended to make them feel more comfortable performing various site administrator tasks. Topics like theming, maintenance, and optimization are covered.
 
@@ -88,7 +88,10 @@ Possibly. I am sensitive to the phenomenon of "Plone book diarrhea" and I do thi
 
    <a href="https://plone.org/events/plone-conferences/washington-dc-2008" target="_blank">Plone Conference 2008</a>
 
-.. _Professional Plone Development: https://www.packtpub.com/Professional-Plone-web-applications-CMS/book
+.. |Plone 3.3 Site Administration| raw:: html
+
+   <a href="https://www.packtpub.com/product/plone-3-3-site-administration/9781847197047" target="_blank">Plone 3.3 Site Administration</a>
+
 .. _Plone 3.3 Site Administration: https://www.packtpub.com/plone-3-3-site-administration/book
 .. _MacGyver: http://en.wikipedia.org/wiki/MacGyver
 .. _full WSGI support in Zope 2: http://article.gmane.org/gmane.comp.web.zope.plone.devel/23887
