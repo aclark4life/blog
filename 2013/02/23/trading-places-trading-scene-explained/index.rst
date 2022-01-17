@@ -78,4 +78,4 @@ Does it make sense now? If not,
 
 .. |cornering the market| raw:: html
 
-   <a href="http://en.wikipedia.org/wiki/Cornering_the_market">cornering the market</a>
+   <a href="http://en.wikipedia.org/wiki/Cornering_the_market" target="_blank">cornering the market</a>
