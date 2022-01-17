@@ -61,7 +61,7 @@ E.g.
 
 ::
 
-    "Music/iTunes/iTunes Music/Yael Naïm/Yael Naïm/03 New Soul.m4a"
+    Music/iTunes/iTunes Music/Yael Naïm/Yael Naïm/03 New Soul.m4a
 
 So now I can do things like:
 
@@ -85,7 +85,7 @@ Or:
 
 ::
 
-    "Music/iTunes/iTunes Music/Yael Naïm/Yael Naïm/03 New Soul.m4a:
-        ISO Media, MPEG v4 system, iTunes AAC-LC"
+    Music/iTunes/iTunes Music/Yael Naïm/Yael Naïm/03 New Soul.m4a:
+      ISO Media, MPEG v4 system, iTunes AAC-LC
 
 |
