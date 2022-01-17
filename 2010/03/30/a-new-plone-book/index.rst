@@ -44,8 +44,8 @@ The bottom line is this: Plone made a conscious decision to "become more Pythoni
 
 Let me correct myself: I am fairly certain Buildout was the right way to go at the time. What I am not sure about is where to go from here. It would be nice to get back to a place where folks could just drop packages in to a directory (I don't literally mean going back to old-style products, but perhaps we could provide that type of functionality again somehow). But I don't have an answer for that. In the meantime, let's make everyone more comfortable with using Buildout.
 
-About the rest of the book…
----------------------------
+About The Rest of the Book
+--------------------------
 
 The book teaches you to find your way around Buildout and Plone. Whether you choose to follow along and build your site from scratch using only Buildout (and a paper clip) or if you use one of the Buildout-based installers (like the Unified Installer), this book aims to make you more competent and comfortable performing a variety of Buildout-related tasks.
 
@@ -53,14 +53,14 @@ In Chapters 2-7, we present various buildout configuration files that correspond
 
 In the final Chapter 8, we cover new technologies like XDV and repoze.zope2 which may become more mainstream once you decide to start using them (although the latter seems more like a toy to keep us busy until the real fix arrives: `full WSGI support in Zope 2`_).
 
-When will it arrive?
+When Will it Arrive?
 --------------------
 
 PACKT originally announced the book will arrive in March and I have been working non-stop since mid-March to make sure it gets out the door as quickly as possible; I expect it to be available Real Soon Now™. I apologize to those of you who have pre-ordered and are now waiting for it!
 
 So get ready! I plan to have over 200 pages of draft material submitted by the end of this month. I will continue to work with PACKT to address any concerns that arise during editing. They have promised to try to ship the book by May, so we will see how it goes. I encourage you to `pre-order now`_ as that will go a long way to inspire them to work just that much harder to get it done and out to you, ASAP!
 
-Can I write a book?
+Can I Write a Book?
 -------------------
 
 Probably. For those curious about the process (as I very much was), here is a bit about how it went for me:
@@ -71,7 +71,7 @@ Probably. For those curious about the process (as I very much was), here is a bi
 
 Perhaps the biggest lesson I learned was this: stop thinking and start writing. I tend to over analyze things and spent a lot of time thinking about "how it would go" rather than just writing it. Writing is the key.  Think less, write more (at which point your thoughts tends to flow more naturally anyway).
 
-Should I write a book?
+Should I Write a Book?
 ----------------------
 
 Possibly. I am sensitive to the phenomenon of "Plone book diarrhea" and I do think that there can be such a thing as too many Plone books. But I don't think we are there yet. To me, the more books published about Plone (by PACKT or any publisher) the better. I like to see what each individual author brings to the story, even if the stories they are telling tend to overlap sometimes. So for me the answer to that question both before and after writing my book is yes. I know I am a better writer having written it, and I certainly know more about Python, Zope, and Plone and many other technologies.
@@ -89,12 +89,3 @@ Possibly. I am sensitive to the phenomenon of "Plone book diarrhea" and I do thi
 .. |Plone 3.3 Site Administration| raw:: html
 
    <a href="https://www.packtpub.com/product/plone-3-3-site-administration/9781847197047" target="_blank">Plone 3.3 Site Administration</a>
-
-.. _Plone 3.3 Site Administration: https://www.packtpub.com/plone-3-3-site-administration/book
-.. _MacGyver: http://en.wikipedia.org/wiki/MacGyver
-.. _full WSGI support in Zope 2: http://article.gmane.org/gmane.comp.web.zope.plone.devel/23887
-.. _pre-order now: https://www.packtpub.com/plone-3-3-site-administration/book
-.. _one day class I am teaching at Plone Symposium East 2010: http://plone-site-admin.eventbrite.com
-.. _my previous blog entry: http://blog.aclark.net/?p=170
-.. _get in touch.: mailto:aclark@aclark.net?subject="Hire%20Alex%20Clark"
-.. _contact: http://aclark.net/contact-info
