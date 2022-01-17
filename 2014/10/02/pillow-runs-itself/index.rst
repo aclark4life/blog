@@ -16,7 +16,7 @@ As of Pillow 2.6.0, the |Pillow project| runs itself. Of course when I say "runs
 - Not run ``setup.py upload`` or ``twine upload`` myself.
 - Watch in awe as the Pillow team [1]_ did all the work.
 
-Kudos to these gentlemen for making my life easier and for continuing to provide the Python community with a featureful, modern & secure Python Imaging Library.
+Kudos to them for making my life easier and for continuing to provide the Python community with a featureful, modern & secure Python Imaging Library.
 
 Additionally thanks to all the contributors from all over the world who continue to develop and improve Pillow. I used to keep a list, but now there are `too many to keep track of <https://github.com/python-pillow/Pillow/graphs/contributors>`_.
 
