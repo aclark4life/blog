@@ -25,7 +25,7 @@ Articles
 --------
 
 .. toctree::
-   :depth: 1
+   :maxdepth: 1
 
    2007/03/16/first-post/index
    2008/03/06/unix-tips-for-the-elderly/index
