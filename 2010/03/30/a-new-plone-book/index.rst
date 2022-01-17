@@ -22,8 +22,6 @@ If |Plone Conference 2006| was my inspiration for |Plone Conference 2008|, then 
 
 For the past 14 months or so, I have been writing a book aimed at end users of Plone; folks that have little knowledge of how to do much more than add content. It is intended to make them feel more comfortable performing various site administrator tasks. Topics like theming, maintenance, and optimization are covered.
 
-But wait, there's more!
-
 Lowering the Plone bar for Python users
 ---------------------------------------
 
