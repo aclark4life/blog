@@ -48,10 +48,17 @@ I now invite everyone to use and contribute.
 
 - |project-makefile|
 
+|
+
+.. raw:: html
+
+   <a href="https://twitter.com/intent/tweet?screen_name=aclark4life&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @aclark4life</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+|
+
 .. |cmwg| raw:: html
 
     <a target="_blank" href="http://www.cmwg.org/">Configuration Management Working Group of DC</a>
-
 
 .. |slides| raw:: html
 
@@ -59,14 +66,8 @@ I now invite everyone to use and contribute.
 
 .. |project-makefile| raw:: html
 
-    <a target="_blank" href="https://github.com/project-makefile/project-makefile">https://github.com/aclark4life/project-makefile</a>
+    <a target="_blank" href="https://github.com/project-makefile/project-makefile">https://github.com/project-makefile/project-makefile</a>
 
 .. |i was asked| raw:: html
 
     <a href="https://twitter.com/CMWorkingGrp/status/773228143939293185" target="_blank">I was asked</a>
-
-.. raw:: html
-
-   <a href="https://twitter.com/intent/tweet?screen_name=aclark4life&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @aclark4life</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-|
