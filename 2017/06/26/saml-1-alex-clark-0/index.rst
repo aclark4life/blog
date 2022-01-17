@@ -11,6 +11,7 @@ SAML: 1, Alex Clark: 0
 |
 
 .. image:: /images/saml-failure-complete.jpg
+    :align: center
     :class: blog-image
 
 |
