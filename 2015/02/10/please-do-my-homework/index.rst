@@ -57,3 +57,5 @@ So now I feel compelled to try and discourage such posts and **encourage more me
 In the real world, you cannot say to your friends and/or coworkers::
 
     My boss is such a jerk. If you could just give me a working example of how to do my job, that would be awesome! Lolz.
+
+|
