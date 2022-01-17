@@ -66,6 +66,7 @@ Does it make sense now? If not,
    <a href="https://twitter.com/intent/tweet?screen_name=aclark4life&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @aclark4life</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 |
+
 .. |Trading Places| raw:: html
 
    <a href="http://www.imdb.com/title/tt0086465" target="_blank">Trading Places</a>
