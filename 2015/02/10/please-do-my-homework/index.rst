@@ -10,7 +10,7 @@ Please Do My Homework
 
 |
 
-I am being driven insane by Redditors asking |/r/Python|. 
+I am being driven insane by Redditors asking |r_Python|.
 
 to do their homework for them. E.g.
 
@@ -68,6 +68,6 @@ I'm just saying!
 
 |
 
-.. |r/Python| raw:: html
+.. |r_Python| raw:: html
 
-   <a href="http://www.reddit.com/r/Python" target="_blank">r/Python</a>
+   <a href="http://www.reddit.com/r/Python" target="_blank">/r/Python</a>
