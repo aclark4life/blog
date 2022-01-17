@@ -1,16 +1,21 @@
-New Year’s Python Meme
+|
+
+New Year's Python Meme
 ======================
 
-.. post:: 2009/12/31
-    :category: Python
+|
+
+.. feed-entry::
+   :date: 2009-12-31
+
+|
 
 .. image:: /images/lenin_packaging.png 
-    :width: 100%
-    :alt: alternate text
     :align: center
-    :class: img-thumbnail
 
-**Tarek's new thing**
+|
+
+Tarek's new thing.
 
 What’s the coolest Python application, framework or library you have discovered in 2009?
 ----------------------------------------------------------------------------------------
