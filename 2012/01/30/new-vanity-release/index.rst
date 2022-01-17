@@ -172,3 +172,5 @@ Pyramid
     Package `pyramid` has been downloaded 97,222 times!
 
 Enjoy the new release.
+
+|
