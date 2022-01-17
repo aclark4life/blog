@@ -20,7 +20,7 @@ Plone 3.3 Site Administration
 
 If |Plone Conference 2006| was my inspiration for |Plone Conference 2008|, then Professional Plone Development was my inspiration for this book: |Plone 3.3 Site Administration|.
 
-For the past 14 months or so, I have been writing a book aimed at end users of Plone; folks that have little knowledge of how to do much more than add content. It is intended to make them feel more comfortable performing various site administrator tasks. Topics like theming, maintenance, and optimization are covered.
+For the past 14 months or so, I have been writing a book aimed at end users of Plone: folks that have little knowledge of how to do much more than add content. It is intended to make them feel more comfortable performing various site administrator tasks. Topics like theming, maintenance, and optimization and more are covered.
 
 Lowering the Plone bar for Python users
 ---------------------------------------
@@ -33,12 +33,12 @@ So, this book begins at the beginning: by making sure folks are comfortable inst
 
 This book does not make that assumption and tries to cover everything you may need to know after installing your operating system up to that point.
 
-In Chapter 1, we cover installing and running Python on three popular operating systems: Mac OS X 10.6 (my main squeeze), Windows 7, and Ubuntu 9.10 (Debian is my main production server squeeze). Other operating systems are welcome; your mileage may vary.
+In Chapter 1, we cover installing and running Python on three popular operating systems: Mac OS X 10.6, Windows 7, and Ubuntu 9.10.
 
 Buildout
 --------
 
-This book is largely a response to the whole "Oh no! I have to use Buildout to install Plone and its add-ons!" sentiment that has been prevalent since Buildout was first introduced to Plone several years ago. I don't know if Buildout was the "right" way to go, but I do know that I love using it and I would like to help others feel the same way.
+This book is largely a response to the "Oh no! I have to use Buildout to install Plone and its add-ons!" sentiment that has been prevalent since Buildout was first introduced to Plone several years ago. I don't know if Buildout was the "right" way to go, but I do know that I love using it and I would like to help others feel the same way.
 
 The bottom line is this: Plone made a conscious decision to "become more Pythonic" by using eggs. With that choice came more complexity from potential conflicts between eggs. Buildout is one solution to that problem. Unfortunately, it introduces other problems like cryptic error messages and a certain too-many-moving-parts-ness.
 
