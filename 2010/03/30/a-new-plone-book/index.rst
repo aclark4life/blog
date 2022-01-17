@@ -60,22 +60,6 @@ PACKT originally announced the book will arrive in March and I have been working
 
 So get ready! I plan to have over 200 pages of draft material submitted by the end of this month. I will continue to work with PACKT to address any concerns that arise during editing. They have promised to try to ship the book by May, so we will see how it goes. I encourage you to pre-order now as that will go a long way to inspire them to work just that much harder to get it done and out to you, ASAP.
 
-Can I Write a Book?
--------------------
-
-Probably. For those curious about the process (as I very much was), here is a bit about how it went for me:
-
-#. A few years ago, Martin Aspeli had the idea for Practical Plone 3 and put out a call to writers that I responded to; I ended up contributing 2 chapters. This taught me that it was indeed a lot of work, and I got exposed to the editing process.
-#. A couple years ago, PACKT approached me (and several others) about the idea for Plone Site Administration and I thought I had a good story to tell based on my experiences, so I wrote a detailed outline and they accepted it.
-#. Though I had written for Practical Plone 3, I struggled to find my voice. At the same time I had a tremendous amount of consulting work to do to make a living. I sneaked in time to write drafts and eventually found my voice. To be honest, the most productive work has been done in the last 3 months.
-
-Perhaps the biggest lesson I learned was this: stop thinking and start writing. I tend to over analyze things and spent a lot of time thinking about "how it would go" rather than just writing it. Writing is the key.  Think less, write more (at which point your thoughts tends to flow more naturally anyway).
-
-Should I Write a Book?
-----------------------
-
-Possibly. I am sensitive to the phenomenon of "Plone book diarrhea" and I do think that there can be such a thing as too many Plone books. But I don't think we are there yet. To me, the more books published about Plone (by PACKT or any publisher) the better. I like to see what each individual author brings to the story, even if the stories they are telling tend to overlap sometimes. So for me the answer to that question both before and after writing my book is yes. I know I am a better writer having written it, and I certainly know more about Python, Zope, and Plone and many other technologies.
-
 |
 
 .. |Plone Conference 2006| raw:: html
