@@ -19,6 +19,9 @@ New Year's Python Meme
 
     <a href="https://ziade.org/2009/12/28/new-years-python-meme/" target="_blank">Tarek's new thing</a>.
 
+.. role:: strike
+    :class: strike
+
 What’s the coolest Python application, framework or library you have discovered in 2009?
 ----------------------------------------------------------------------------------------
 
