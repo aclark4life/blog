@@ -10,9 +10,7 @@ Please Do My Homework
 
 |
 
-I am being driven insane by Redditors asking |r_Python|.
-
-to do their homework for them. E.g.
+I am being driven insane by Redditors asking |r_Python| to do their homework for them. E.g.
 
 .. image:: /images/homework1.png
     :alt: Question #1
