@@ -35,8 +35,7 @@ In the movie, the Dukes plan to cheat. But the "good guys" (Valentine and Winthr
 Important Plot Detail #2
 ------------------------
 
-Remember, the Dukes plan to cheat AKA `"corner the market" <http://en.wikipedia.org/wiki/Cornering_the_market>`_. And as |Chris Carter says|
-
+Remember, the Dukes plan to cheat AKA |cornering the market|. And as |Chris Carter says|:
 
     The (Duke's) agent wants to own as many contracts as possible before the crop report is revealed, since (he thinks) once it is, the price will go up and he can sell at a profit. Trading begins with a price of 102 cents per pound, which translates into $15,300 per contract. Once everyone sees that the Dukes' agent is trying to corner the market, they all want a piece of it, forcing the price up since more people are buying than selling.
 
@@ -76,3 +75,7 @@ Does it make sense now? If not,
 .. |Chris Carter says| raw:: html 
 
    <a href="http://www.dangerouslogic.com/trading_places.html" target="_blank">Chris Carter says</a>
+
+.. |cornering the market| raw:: html
+
+   <a href="http://en.wikipedia.org/wiki/Cornering_the_market">cornering the market</a>
