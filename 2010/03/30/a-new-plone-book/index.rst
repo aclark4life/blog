@@ -24,8 +24,8 @@ For the past 14 months or so, I have been writing a book aimed at end users of P
 
 But wait, there's more!
 
-#1
---
+Lowering the Plone bar for Python users
+---------------------------------------
 
 This book aims to "lower the Plone bar for users of Python". What do I mean by that? Basically this: I love Python almost as much as I love Plone. It lets me translate my thoughts directly into code. I fantasize that with little more than a Python interpreter, one can forge a working Plone site within minutes. But it is not just a fantasy, it is (more or less) the status quo.
 
@@ -37,8 +37,8 @@ This book does not make that assumption and tries to cover everything you may ne
 
 In **Chapter 1**, we cover installing and running Python on three popular operating systems: Mac OS X 10.6 (my main squeeze), Windows 7, and Ubuntu 9.10 (Debian is my main production server squeeze). Other operating systems are welcome; your mileage may vary.
 
-#2
---
+Buildout
+--------
 
 This book is largely a response to the whole "Oh no! I have to use Buildout to install Plone and its add-ons!" sentiment that has been prevalent since Buildout was first introduced to Plone several years ago. I don't know if Buildout was the "right" way to go, but I do know that I love using it and I would like to help others feel the same way.
 
@@ -80,3 +80,5 @@ Should I write a book?
 ----------------------
 
 Possibly. I am sensitive to the phenomenon of "Plone book diarrhea" and I do think that there can be such a thing as too many Plone books. But I don't think we are there yet. To me, the more books published about Plone (by PACKT or any publisher) the better. I like to see what each individual author brings to the story, even if the stories they are telling tend to overlap sometimes. So for me the answer to that question both before and after writing my book is **yes**. I know I am a better writer having written it, and I certainly know more about Python, Zope, and Plone and many other technologies.
+
+|
