@@ -18,7 +18,7 @@ A New Plone Book
 Plone 3.3 Site Administration
 -----------------------------
 
-If |Plone Conference 2006| was my inspiration for `Plone Conference 2008`_, then `Professional Plone Development`_ was my inspiration for this book: `Plone 3.3 Site Administration`_.
+If |Plone Conference 2006| was my inspiration for |Plone Conference 2008|, then `Professional Plone Development`_ was my inspiration for this book: `Plone 3.3 Site Administration`_.
 
 For the past 14 months or so, I have been writing a book aimed at end users of Plone; folks that have little knowledge of how to do much more than add content. It is intended to make them feel more comfortable performing various site administrator tasks. Topics like theming, maintenance, and optimization are covered.
 
@@ -84,11 +84,10 @@ Possibly. I am sensitive to the phenomenon of "Plone book diarrhea" and I do thi
 
    <a href="http://plone.org/events/conferences/seattle-2006" target="_blank">Plone Conference 2006</a>
 
+.. |Plone Conference 2008| raw:: html
 
+   <a href="http://plone.org/2008" target="_blank">Plone Conference 2008</a>
 
-
-
-.. _Plone Conference 2008: http://plone.org/2008
 .. _Professional Plone Development: https://www.packtpub.com/Professional-Plone-web-applications-CMS/book
 .. _Plone 3.3 Site Administration: https://www.packtpub.com/plone-3-3-site-administration/book
 .. _MacGyver: http://en.wikipedia.org/wiki/MacGyver
