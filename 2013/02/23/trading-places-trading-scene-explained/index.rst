@@ -51,15 +51,15 @@ The "good guys" know the truth i.e. that the current buying trend is based on th
 Light bulb
 ----------
 
-Ding! Ding! Ding! So after all this, here's what's really happening: the "good guys" successfully carry out a short sale, with the help of the "bad guys" who are trying to corner the market but acting on false information. Or as `Chris Carter <http://www.dangerouslogic.com/trading_places.html>`_ puts it, after the real crop report is published:
+Ding! Ding! Ding!
 
-    They (the "good guys") need to buy--a lot--to zero their position, and the crowd is more than willing to oblige.
+So after all this, here's what's really happening: the "good guys" successfully carry out a short sale, with the help of the "bad guys" who are trying to corner the market but acting on false information. Or as `Chris Carter <http://www.dangerouslogic.com/trading_places.html>`_ puts it, after the real crop report is published:
+
+    The "good guys" need to buy--a lot--to zero their position, and the crowd is more than willing to oblige.
 
 Finally, the "good guys" are able to buy enough to contracts to fulfill the number of "short" sales they made. And they are able to purchase them for much less then they made the "short" sales for. Profit!
 
 Does it make sense now? If not,
-
-|
 
 .. raw:: html
 
