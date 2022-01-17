@@ -35,7 +35,8 @@ In the movie, the Dukes plan to cheat. But the "good guys" (Valentine and Winthr
 Important Plot Detail #2
 ------------------------
 
-Remember, the Dukes plan to cheat AKA `"corner the market" <http://en.wikipedia.org/wiki/Cornering_the_market>`_. And as `Chris Carter <http://www.dangerouslogic.com/trading_places.html>`_ says:
+Remember, the Dukes plan to cheat AKA `"corner the market" <http://en.wikipedia.org/wiki/Cornering_the_market>`_. And as |Chris Carter says|
+
 
     The (Duke's) agent wants to own as many contracts as possible before the crop report is revealed, since (he thinks) once it is, the price will go up and he can sell at a profit. Trading begins with a price of 102 cents per pound, which translates into $15,300 per contract. Once everyone sees that the Dukes' agent is trying to corner the market, they all want a piece of it, forcing the price up since more people are buying than selling.
 
@@ -71,3 +72,7 @@ Does it make sense now? If not,
    <a href="http://www.imdb.com/title/tt0086465" target="_blank">Trading Places</a>
 
 .. `plenty <http://www.wisebread.com/explaining-the-climax-scene-of-trading-places>`_ `of <http://www.popmodal.com/video/1277/Trading-Places-Final-Exchange-Scene-amp-Explanation>`_ `great <http://www.dangerouslogic.com/trading_places.html>`_ `answers <http://justurbanism.com/2011/03/26/how_the_trading_places_final_scene_works/>`_ 
+
+.. |Chris Carter says| raw:: html 
+
+   <a href="http://www.dangerouslogic.com/trading_places.html" target="_blank">Chris Carter says</a>
