@@ -18,13 +18,11 @@ As of Pillow 2.6.0, the |Pillow project| runs itself. Of course when I say "runs
 
 Kudos to them for making my life easier and for continuing to provide the Python community with a featureful, modern & secure Python Imaging Library.
 
-Additional thanks to Christoph Gohlke for |Windows Eggs, Exes, Wheels|, Matthew Brett for |OS X Wheels|
+Additional thanks to Christoph Gohlke for |Windows Eggs, Exes, Wheels|, Matthew Brett for |OS X Wheels| and Steve Johnson for |Sphinx Documentation|.
 
 
+Lastly thanks to all the contributors from all over the world who continue to develop and improve Pillow. I used to keep a list, but now there are |too many to keep track of|.
 
-and Steve Johnson for `Sphinx Documentation <https://github.com/python-pillow/Pillow/issues/769>`_.
-
-Lastly thanks to all the contributors from all over the world who continue to develop and improve Pillow. I used to keep a list, but now there are `too many to keep track of <https://github.com/python-pillow/Pillow/graphs/contributors>`_.
 
 .. [1] `Eric <https://twitter.com/wiredfool>`_ and `Hugo <https://twitter.com/hugovk>`_.
 
@@ -41,3 +39,11 @@ Lastly thanks to all the contributors from all over the world who continue to de
 .. |OS X Wheels| raw:: html
 
    <a href="https://github.com/python-pillow/Pillow/issues/766" target="_blank">OS X Wheels</a>
+
+.. |Sphinx Documentation| raw:: html
+
+   <a href="https://github.com/python-pillow/Pillow/issues/769" target="_blank">Sphinx Documentation</a>
+
+.. |too many to keep track of| raw:: html
+
+   <a href="https://github.com/python-pillow/Pillow/graphs/contributors" target="_blank">too many to keep track of</a>
