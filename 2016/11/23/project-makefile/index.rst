@@ -65,4 +65,8 @@ I now invite everyone to use and contribute.
 
     <a href="https://twitter.com/CMWorkingGrp/status/773228143939293185" target="_blank">I was asked</a>
 
+.. raw:: html
+
+   <a href="https://twitter.com/intent/tweet?screen_name=aclark4life&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @aclark4life</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 |
