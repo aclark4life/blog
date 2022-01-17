@@ -37,7 +37,7 @@ Generally speaking, I'm happy with my progress as a Plone integrator, plowing th
 What’s the name of the open source project you contributed the most in 2009? What did you do?
 ---------------------------------------------------------------------------------------------
 
-|Plone|.
+|Plone|
 
 - I dug out from |Plone Conference 2008|, which included publishing the |videos and slides|.
 - I helped move plone.org to Six Feet Up, and have been looking after it as well as |other infrastructure issues|.
