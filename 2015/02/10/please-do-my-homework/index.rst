@@ -19,14 +19,14 @@ to do their homework for them. E.g.
     :align: center
     :class: blog-image
 
-I have no problem with Redditors asking questions on /r/Python that are better suited to /r/learnpython. E.g.
+I have no problem with Redditors asking questions on |r_Python| that are better suited to |r_learnpython|. E.g.
 
 .. image:: /images/homework2.png
     :alt: Question #2
     :align: center
     :class: blog-image
 
-But there is something about the current proliferation of homework questions on /r/Python that I find offensive.
+But there is something about the current proliferation of homework questions on |r_Python| that I find offensive.
 
 .. image:: /images/homework3.png
     :alt: Question #3
@@ -35,7 +35,7 @@ But there is something about the current proliferation of homework questions on 
 
 Perhaps it is due to:
 
-- Less meaningful content. I read `/r/Python <http://www.reddit.com/r/Python>`_ for Hacker News-like stories about Python. The more poorly written homework questions, the less meaningful content.
+- Less meaningful content. I read |r_Python| for Hacker News-like stories about Python. The more poorly written homework questions, the less meaningful content.
 
 .. image:: /images/homework4.png
     :alt: Question #4
@@ -71,3 +71,7 @@ I'm just saying!
 .. |r_Python| raw:: html
 
    <a href="http://www.reddit.com/r/Python" target="_blank">/r/Python</a>
+
+.. |r_learnpython| raw:: html
+
+   <a href="http://www.reddit.com/r/learnpython" target="_blank">/r/learnpython</a>
