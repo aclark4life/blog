@@ -15,7 +15,7 @@ New Year's Python Meme
 
 |
 
-Tarek's new thing.
+`Tarek's new thing <https://ziade.org/2009/12/28/new-years-python-meme/>`_.
 
 What’s the coolest Python application, framework or library you have discovered in 2009?
 ----------------------------------------------------------------------------------------
