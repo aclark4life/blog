@@ -1,14 +1,16 @@
+|
+
 SAML: 1, Alex Clark: 0
 ======================
+
+|
 
 .. feed-entry::
    :date: 2017-06-26
 
 .. image:: /images/saml-failure-complete.jpg
-    :alt: Courtesy of quickmeme
+    :alt: Via quickmeme.com
     :class: blog-image
-
-Via `quickmeme <http://www.quickmeme.com/>`_
 
 |
 
