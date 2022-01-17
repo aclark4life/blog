@@ -22,10 +22,10 @@ If |Plone Conference 2006| was my inspiration for |Plone Conference 2008|, then 
 
 For the past 14 months or so, I have been writing a book aimed at end users of Plone: folks that have little knowledge of how to do much more than add content. It is intended to make them feel more comfortable performing various site administrator tasks. Topics like theming, maintenance, and optimization and more are covered.
 
-Lowering the Plone bar for Python users
+Lowering the Plone Bar for Python Users
 ---------------------------------------
 
-This book aims to "lower the Plone bar for users of Python". What do I mean by that? Basically this: I love Python almost as much as I love Plone. It lets me translate my thoughts directly into code. I fantasize that with little more than a Python interpreter, one can forge a working Plone site within minutes. But it is not just a fantasy, it is (more or less) the status quo.
+This book aims to ``lower the Plone bar for users of Python``. What do I mean by that? Basically this: I love Python almost as much as I love Plone. It lets me translate my thoughts directly into code. I fantasize that with little more than a Python interpreter, one can forge a working Plone site within minutes. But it is not just a fantasy, it is (more or less) the status quo.
 
 So, this book begins at the beginning: by making sure folks are comfortable installing and using Python on there operating system of choice (or using the pre-installed Python). If you read Professional Plone Development, you may recall Martin Aspeli saying at the beginning of Chapter 3:
 
