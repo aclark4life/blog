@@ -77,7 +77,7 @@ html_sidebars = {
 html_show_sourcelink = False
 
 html_permalinks = True
-html_permalinks_icon = "🔖"
+html_permalinks_icon = "📌"
 
 
 html_favicon = "images/aclark-jobs.jpg"
