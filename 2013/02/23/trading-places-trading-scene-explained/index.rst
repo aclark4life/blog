@@ -10,16 +10,16 @@ Trading Places Trading Scene Explained
 
 |
 
-Every time I watch Trading Places I have to search the internet for an explanation of the climactic commodities trading scene.
+Every time I watch |Trading Places| I have to search the internet for an explanation of the climactic commodities trading scene.
 
-Every time I watch the movie `Trading Places <http://www.imdb.com/title/tt0086465>`_, I have to search the internet for an explanation of the climactic commodities trading scene. It usually takes me about 20 minutes to (re-)understand it, then another 10 minutes to explain it to my wife. Although there are `plenty <http://www.wisebread.com/explaining-the-climax-scene-of-trading-places>`_ `of <http://www.popmodal.com/video/1277/Trading-Places-Final-Exchange-Scene-amp-Explanation>`_ `great <http://www.dangerouslogic.com/trading_places.html>`_ `answers <http://justurbanism.com/2011/03/26/how_the_trading_places_final_scene_works/>`_ available, none of them really "speak" to me; so I decided to write my own. The goal for me is to be able to (re-)read my explanation and understand it enough to explain to someone else in less than 5 minutes.
+Every time I watch the movie |Trading Places| I have to search the internet for an explanation of the climactic commodities trading scene. It usually takes me about 20 minutes to (re-)understand it, then another 10 minutes to explain it to my wife. Although there are `plenty <http://www.wisebread.com/explaining-the-climax-scene-of-trading-places>`_ `of <http://www.popmodal.com/video/1277/Trading-Places-Final-Exchange-Scene-amp-Explanation>`_ `great <http://www.dangerouslogic.com/trading_places.html>`_ `answers <http://justurbanism.com/2011/03/26/how_the_trading_places_final_scene_works/>`_ available, none of them really "speak" to me; so I decided to write my own. The goal for me is to be able to (re-)read my explanation and understand it enough to explain to someone else in less than 5 minutes.
 
 This scene is tricky for non-stockbrokers to understand because you need to know a lot about trading, and you also need to know some important plot details. Rather than continue to look everything up on the internet each time, I figured I'd write this blog entry instead.
 
-Important Plot Detail #1
-------------------------
+Important Plot Detail #1: the Crop Reports, Real and Fake
+---------------------------------------------------------
 
-The Crop Reports, real and fake. In the movie, the Dukes plan to cheat. But the "good guys" (Valentine and Winthrope) foil them by replacing their stolen, ill-gotten crop report with a fake. This allows the "good guys" to win. To understand the reverse-swindle, you must understand the crop reports (real and fake) and the market repercussions of each:
+In the movie, the Dukes plan to cheat. But the "good guys" (Valentine and Winthrope) foil them by replacing their stolen, ill-gotten crop report with a fake. This allows the "good guys" to win. To understand the reverse-swindle, you must understand the crop reports (real and fake) and the market repercussions of each:
 
 +-----------------+------------+------------+
 |                 | **Report** | **Report** |
@@ -62,3 +62,6 @@ Finally, the "good guys" are able to buy enough to contracts to fulfill the numb
 Does it make sense now? If not, `let me know <https://twitter.com/aclark4life>`_. 
 
 |
+.. |Trading Places| raw:: html
+
+   <a href="http://www.imdb.com/title/tt0086465" target="_blank">Trading Places</a>
