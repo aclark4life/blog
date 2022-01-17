@@ -32,7 +32,7 @@ That would be |Zenoss|. I'm very impressed with the application as well as the c
 What new programming technique did you learn in 2009?
 -----------------------------------------------------
 
-Generally speaking, I'm happy with my progress as a Plone integrator, plowing through the tremendous Plone code stack, on my way to complete mastery. I may never get there, but I'm having fun trying. In other words, I know a lot more about how far the Zope2/CMF/Five rabbit hole goes. If I had to pick, I'd choose Grok in Plone, mostly as it relates to Dexterity: `http://plone.org/products/dexterity/documentation/manual/five.grok`_. I created `http://plone.org/products/collective-project`_ as a result, or rather, I converted the package to use Dexterity types so I could learn Dexterity, in part ;-). At first I was angry at being "forced" to use Grok techniques in Plone, but then it grew on me.
+Generally speaking, I'm happy with my progress as a Plone integrator, plowing through the tremendous Plone code stack, on my way to complete mastery. I may never get there, but I'm having fun trying. In other words, I know a lot more about how far the Zope2/CMF/Five rabbit hole goes. If I had to pick, I'd choose Grok in Plone, mostly as it relates to Dexterity. I created |collective.project| as a result, or rather, I converted the package to use Dexterity types so I could learn Dexterity, in part ;-). At first I was angry at being "forced" to use Grok techniques in Plone, but then it grew on me.
 
 What’s the name of the open source project you contributed the most in 2009? What did you do?
 ---------------------------------------------------------------------------------------------
@@ -60,27 +60,17 @@ Happy New Year, everyone!
 
 |
 
-.. _`http://plone.org/products/dexterity/documentation/manual/five.grok`: http://plone.org/products/dexterity/documentation/manual/five.grok
+.. |videos and slides| raw:: html
 
-.. _`http://plone.org/products/collective-project`: http://plone.org/products/collective-project
+   <a href="http://plone.org/events/conferences/2008-washington-dc/agenda" target="_blank">videos and slides</a>
 
-.. _Plone Conference 2008: http://plone.org/events/conferences/2008-washington-dc
+.. |other infrastructure issues| raw:: html
 
-.. _videos and slides: http://plone.org/events/conferences/2008-washington-dc/agenda
+   <a href="http://plone.org/news/plone-domain-dns-changes" target="_blank">other infrastructure issues</a>
 
-.. _Six Feet Up: http://sixfeetup.com
+.. |collective.project| raw:: html
 
-.. _it: http://dev.plone.org/plone/browser/Products.PloneOrg/trunk
-
-.. _other infrastructure issues: http://plone.org/news/plone-domain-dns-changes
-
-.. _Packt: http://packtpub.com
-
-.. _new feature: http://dev.plone.org/plone/ticket/9330
-
-.. _WSGI: http://wsgi.org/wsgi/
-
-.. _Plone 4 core development: http://dev.plone.org/plone/browser/buildouts/plone-coredev/branches/4.0
+   <a href="https://pypi.org/project/collective.project/" target="_blank">collective.project</a>
 
 .. |Plone| raw:: html
 
@@ -93,4 +83,3 @@ Happy New Year, everyone!
 .. |zenoss| raw:: html
 
    <a href="https://zenoss.com" target="_blank">Zenoss</a>
-
