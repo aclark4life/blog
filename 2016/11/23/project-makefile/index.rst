@@ -12,7 +12,7 @@ A while back |I was asked| to present to the |cmwg|.
     :align: center
     :class: blog-image
 
-From that moment it was on: an excuse to finish and talk about the ``Makefile`` I'd been dragging around formerly since January and informerly for much longer.
+From that moment on I had an excuse to finish and talk about the ``Makefile`` I'd been dragging around formally since January and informally for much longer.
 
 Finishing the Makefile
 ----------------------
@@ -44,7 +44,7 @@ Now it looks like this:
 .. image:: /images/project-makefile-open-for-biz.png
     :class: blog-image
 
-I invite everyone to use and contribute.
+I now invite everyone to use and contribute.
 
 - |project-makefile|
 
@@ -59,7 +59,7 @@ I invite everyone to use and contribute.
 
 .. |project-makefile| raw:: html
 
-    <a target="_blank" href="https://github.com/aclark4life/project-makefile">https://github.com/aclark4life/project-makefile</a>
+    <a target="_blank" href="https://github.com/project-makefile/project-makefile">https://github.com/aclark4life/project-makefile</a>
 
 .. |i was asked| raw:: html
 
