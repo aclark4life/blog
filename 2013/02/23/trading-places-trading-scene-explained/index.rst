@@ -41,7 +41,7 @@ Remember, the Dukes plan to cheat AKA `"corner the market" <http://en.wikipedia.
 
     The (Duke's) agent wants to own as many contracts as possible before the crop report is revealed, since (he thinks) once it is, the price will go up and he can sell at a profit. Trading begins with a price of 102 cents per pound, which translates into $15,300 per contract. Once everyone sees that the Dukes' agent is trying to corner the market, they all want a piece of it, forcing the price up since more people are buying than selling.
 
-I'll repeat that last part: when trading opens before the true crop report is revealed **more people are buying than selling.**
+I'll repeat that last part: when trading opens before the true crop report is revealed more people are buying than selling.
 
 Important Plot Detail #3
 ------------------------
@@ -53,7 +53,7 @@ The "good guys" know the truth i.e. that the current buying trend is based on th
 Light bulb
 ----------
 
-Ding! Ding! Ding! So after all this, here's what's really happening: **the "good guys" successfully carry out a short sale, with the help of the "bad guys" who are trying to corner the market but acting on false information**. Or as `Chris Carter <http://www.dangerouslogic.com/trading_places.html>`_ puts it, after the real crop report is published:
+Ding! Ding! Ding! So after all this, here's what's really happening: the "good guys" successfully carry out a short sale, with the help of the "bad guys" who are trying to corner the market but acting on false information. Or as `Chris Carter <http://www.dangerouslogic.com/trading_places.html>`_ puts it, after the real crop report is published:
 
     They (the "good guys") need to buy--a lot--to zero their position, and the crowd is more than willing to oblige.
 
