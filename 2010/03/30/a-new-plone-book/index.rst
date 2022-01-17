@@ -18,7 +18,7 @@ A New Plone Book
 Plone 3.3 Site Administration
 -----------------------------
 
-If `Plone Conference 2006`_ was my inspiration for `Plone Conference 2008`_, then `Professional Plone Development`_ was my inspiration for this book: `Plone 3.3 Site Administration`_.
+If |Plone Conference 2006| was my inspiration for `Plone Conference 2008`_, then `Professional Plone Development`_ was my inspiration for this book: `Plone 3.3 Site Administration`_.
 
 For the past 14 months or so, I have been writing a book aimed at end users of Plone; folks that have little knowledge of how to do much more than add content. It is intended to make them feel more comfortable performing various site administrator tasks. Topics like theming, maintenance, and optimization are covered.
 
@@ -43,9 +43,6 @@ Buildout
 This book is largely a response to the whole "Oh no! I have to use Buildout to install Plone and its add-ons!" sentiment that has been prevalent since Buildout was first introduced to Plone several years ago. I don't know if Buildout was the "right" way to go, but I do know that I love using it and I would like to help others feel the same way.
 
 The bottom line is this: Plone made a conscious decision to "become more Pythonic" by using eggs. With that choice came more complexity from potential conflicts between eggs. Buildout is one solution to that problem. Unfortunately, it introduces other problems like cryptic error messages and a certain too-many-moving-parts-ness.
-
-An aside…
----------
 
 Let me correct myself: I am fairly certain Buildout was the right way to go at the time. What I am not sure about is where to go from here. It would be nice to get back to a place where folks could just drop packages in to a directory (I don't literally mean going back to old-style products, but perhaps we could provide that type of functionality again somehow). But I don't have an answer for that. In the meantime, let's make everyone more comfortable with using Buildout.
 
@@ -83,7 +80,14 @@ Possibly. I am sensitive to the phenomenon of "Plone book diarrhea" and I do thi
 
 |
 
-.. _Plone Conference 2006: http://plone.org/events/conferences/seattle-2006
+.. |Plone Conference 2006| raw:: html
+
+   <a href="http://plone.org/events/conferences/seattle-2006" target="_blank">Plone Conference 2006</a>
+
+
+
+
+
 .. _Plone Conference 2008: http://plone.org/2008
 .. _Professional Plone Development: https://www.packtpub.com/Professional-Plone-web-applications-CMS/book
 .. _Plone 3.3 Site Administration: https://www.packtpub.com/plone-3-3-site-administration/book
