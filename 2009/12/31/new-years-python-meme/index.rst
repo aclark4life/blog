@@ -22,14 +22,6 @@ New Year's Python Meme
 
 .. raw:: html
 
-    <style>
-    .strike {
-      text-decoration: line-through;
-    }
-    </style>
-
-.. raw:: html
-
     <a href="https://ziade.org/2009/12/28/new-years-python-meme/" target="_blank">Tarek's new thing</a>.
 
 What’s the coolest Python application, framework or library you have discovered in 2009?
