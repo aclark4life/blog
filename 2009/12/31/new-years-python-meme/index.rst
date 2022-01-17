@@ -47,7 +47,7 @@ What’s the name of the open source project you contributed the most in 2009? W
 What was the Python blog or website you read the most in 2009?
 --------------------------------------------------------------
 
-|planet_plone|.
+- |planet_plone|
 
 What are the three top things you want to learn in 2010?
 --------------------------------------------------------
