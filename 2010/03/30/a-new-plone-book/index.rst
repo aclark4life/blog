@@ -82,3 +82,15 @@ Should I write a book?
 Possibly. I am sensitive to the phenomenon of "Plone book diarrhea" and I do think that there can be such a thing as too many Plone books. But I don't think we are there yet. To me, the more books published about Plone (by PACKT or any publisher) the better. I like to see what each individual author brings to the story, even if the stories they are telling tend to overlap sometimes. So for me the answer to that question both before and after writing my book is **yes**. I know I am a better writer having written it, and I certainly know more about Python, Zope, and Plone and many other technologies.
 
 |
+
+.. _Plone Conference 2006: http://plone.org/events/conferences/seattle-2006
+.. _Plone Conference 2008: http://plone.org/2008
+.. _Professional Plone Development: https://www.packtpub.com/Professional-Plone-web-applications-CMS/book
+.. _Plone 3.3 Site Administration: https://www.packtpub.com/plone-3-3-site-administration/book
+.. _MacGyver: http://en.wikipedia.org/wiki/MacGyver
+.. _full WSGI support in Zope 2: http://article.gmane.org/gmane.comp.web.zope.plone.devel/23887
+.. _pre-order now: https://www.packtpub.com/plone-3-3-site-administration/book
+.. _one day class I am teaching at Plone Symposium East 2010: http://plone-site-admin.eventbrite.com
+.. _my previous blog entry: http://blog.aclark.net/?p=170
+.. _get in touch.: mailto:aclark@aclark.net?subject="Hire%20Alex%20Clark"
+.. _contact: http://aclark.net/contact-info
