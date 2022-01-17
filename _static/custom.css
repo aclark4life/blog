@@ -24,6 +24,6 @@ h1 {
 }
 
 blockquote {
-  background: lightgray;
-  padding: 1em;
+  background: #eeeeee;
+  padding: 0 1em 0 1em;
 }
