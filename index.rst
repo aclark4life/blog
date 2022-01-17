@@ -34,6 +34,7 @@ Articles
    2011/02/16/cioppino-sprint-report/index
    2012/01/30/new-vanity-release/index
    2013/02/23/trading-places-trading-scene-explained/index
+   2014/10/02/pillow-runs-itself/index
    now/index
 
 |
