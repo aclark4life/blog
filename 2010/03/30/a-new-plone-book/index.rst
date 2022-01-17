@@ -49,7 +49,7 @@ About The Rest of the Book
 
 The book teaches you to find your way around Buildout and Plone. Whether you choose to follow along and build your site from scratch using only Buildout (and a paper clip) or if you use one of the Buildout-based installers (like the Unified Installer), this book aims to make you more competent and comfortable performing a variety of Buildout-related tasks.
 
-In Chapters 2-7, we present various buildout configuration files that correspond to specific tasks that are related to various subjects, e.g. theming, maintenance, and optimization. The reader is expected to "know how to write a buildout.cfg file" by the end. No one that reads the book is allowed in the #plone IRC channel afterward to ask about buildout (you can answer buildout questions though). Kidding… I kid…
+In Chapters 2-7, we present various buildout configuration files that correspond to specific tasks that are related to various subjects, e.g. theming, maintenance, and optimization. The reader is expected to "know how to write a buildout.cfg file" by the end.
 
 In the final Chapter 8, we cover new technologies like XDV and repoze.zope2 which may become more mainstream once you decide to start using them (although the latter seems more like a toy to keep us busy until the real fix arrives: full WSGI support in Zope 2.
 
