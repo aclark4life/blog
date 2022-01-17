@@ -23,6 +23,7 @@ Additional thanks to Christoph Gohlke for |Windows Eggs, Exes, Wheels|, Matthew 
 
 Lastly thanks to all the contributors from all over the world who continue to develop and improve Pillow. I used to keep a list, but now there are |too many to keep track of|.
 
+|
 
 .. [1] |Eric| and |Hugo|.
 
