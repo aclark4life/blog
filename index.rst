@@ -30,6 +30,7 @@ Articles
    2007/03/16/first-post/index
    2008/03/06/unix-tips-for-the-elderly/index
    2009/12/31/new-years-python-meme/index
+   2010/03/30/a-new-plone-book/index
    now/index
 
 |
