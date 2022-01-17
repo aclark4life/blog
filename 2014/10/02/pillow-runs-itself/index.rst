@@ -18,11 +18,11 @@ As of Pillow 2.6.0, the |Pillow project| runs itself. Of course when I say "runs
 
 Kudos to them for making my life easier and for continuing to provide the Python community with a featureful, modern & secure Python Imaging Library.
 
-Additional thanks to Christoph Gohlke for |Windows Eggs, Exes, Wheels|
+Additional thanks to Christoph Gohlke for |Windows Eggs, Exes, Wheels|, Matthew Brett for |OS X Wheels|
 
 
 
-Matthew Brett for `OS X Wheels <https://github.com/python-pillow/Pillow/issues/766>`_, and Steve Johnson for `Sphinx Documentation <https://github.com/python-pillow/Pillow/issues/769>`_.
+and Steve Johnson for `Sphinx Documentation <https://github.com/python-pillow/Pillow/issues/769>`_.
 
 Lastly thanks to all the contributors from all over the world who continue to develop and improve Pillow. I used to keep a list, but now there are `too many to keep track of <https://github.com/python-pillow/Pillow/graphs/contributors>`_.
 
@@ -37,3 +37,7 @@ Lastly thanks to all the contributors from all over the world who continue to de
 .. |Windows Eggs, Exes, Wheels| raw:: html
 
    <a href="https://pypi.python.org/pypi/Pillow/2.6.0#downloads" target="_blank">Windows Eggs, Exes, Wheels</a>
+
+.. |OS X Wheels| raw:: html
+
+   <a href="https://github.com/python-pillow/Pillow/issues/766" target="_blank">OS X Wheels</a>
