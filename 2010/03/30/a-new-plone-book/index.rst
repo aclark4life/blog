@@ -51,14 +51,14 @@ The book teaches you to find your way around Buildout and Plone. Whether you cho
 
 In Chapters 2-7, we present various buildout configuration files that correspond to specific tasks that are related to various subjects, e.g. theming, maintenance, and optimization. The reader is expected to "know how to write a buildout.cfg file" by the end. No one that reads the book is allowed in the #plone IRC channel afterward to ask about buildout (you can answer buildout questions though). Kidding… I kid…
 
-In the final Chapter 8, we cover new technologies like XDV and repoze.zope2 which may become more mainstream once you decide to start using them (although the latter seems more like a toy to keep us busy until the real fix arrives: `full WSGI support in Zope 2`_).
+In the final Chapter 8, we cover new technologies like XDV and repoze.zope2 which may become more mainstream once you decide to start using them (although the latter seems more like a toy to keep us busy until the real fix arrives: full WSGI support in Zope 2.
 
 When Will it Arrive?
 --------------------
 
 PACKT originally announced the book will arrive in March and I have been working non-stop since mid-March to make sure it gets out the door as quickly as possible; I expect it to be available Real Soon Now™. I apologize to those of you who have pre-ordered and are now waiting for it!
 
-So get ready! I plan to have over 200 pages of draft material submitted by the end of this month. I will continue to work with PACKT to address any concerns that arise during editing. They have promised to try to ship the book by May, so we will see how it goes. I encourage you to `pre-order now`_ as that will go a long way to inspire them to work just that much harder to get it done and out to you, ASAP!
+So get ready! I plan to have over 200 pages of draft material submitted by the end of this month. I will continue to work with PACKT to address any concerns that arise during editing. They have promised to try to ship the book by May, so we will see how it goes. I encourage you to pre-order now as that will go a long way to inspire them to work just that much harder to get it done and out to you, ASAP!
 
 Can I Write a Book?
 -------------------
