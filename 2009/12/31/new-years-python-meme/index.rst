@@ -48,8 +48,8 @@ What are the three top things you want to learn in 2010?
 --------------------------------------------------------
 
 - |Zenoss|
-- `WSGI`_
-- `Plone 4 core development`_
+- :strike:WSGI
+- :strike:Plone 4 core development
 
 Happy New Year everyone!
 
