@@ -41,8 +41,8 @@ Remember, the Dukes plan to cheat AKA |cornering the market|. And as |Chris Cart
 
 I'll repeat that last part: when trading opens before the true crop report is revealed more people are buying than selling.
 
-Important Plot Detail #3
-------------------------
+Important Plot Detail #3: Sell Short
+------------------------------------
 
 The "good guys" know the truth i.e. that the current buying trend is based on the Duke's actions which are based on false information. That brings us to another important point: the "good guys" realize an opportunity to `"sell short" <http://en.wikipedia.org/wiki/Short_%28finance%29>`_. Or as `Chris Carter <http://www.dangerouslogic.com/trading_places.html>`_ puts it:
 
