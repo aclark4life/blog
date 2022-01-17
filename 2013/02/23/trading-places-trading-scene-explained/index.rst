@@ -57,9 +57,11 @@ Ding! Ding! Ding! So after all this, here's what's really happening: the "good g
 
 Finally, the "good guys" are able to buy enough to contracts to fulfill the number of "short" sales they made. And they are able to purchase them for much less then they made the "short" sales for. Profit!
 
-Does it make sense now? If not |let me know|
+Does it make sense now? If not,
 
-.. |let me know| raw:: html
+|
+
+.. raw:: html
 
    <a href="https://twitter.com/intent/tweet?screen_name=aclark4life&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @aclark4life</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
