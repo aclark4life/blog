@@ -10,7 +10,7 @@ Pillow Runs Itself
 
 |
 
-As of Pillow 2.6.0, the Pillow project runs itself. Of course when I say "runs itself" I mean "runs without me", which is what every open source project lead hopes for. For the first time ever, I was able to:
+As of Pillow 2.6.0, the |Pillow project| runs itself. Of course when I say "runs itself" I mean "runs without me", which is what every open source project lead hopes for. For the first time ever, I was able to:
 
 - Turn off GitHub Watching until two weeks before the release.
 - Not run ``setup.py upload`` or ``twine upload`` myself.
@@ -23,3 +23,7 @@ Additionally thanks to all the contributors from all over the world who continue
 .. [1] `Eric Soroos <https://twitter.com/wiredfool>`_ & `Hugo <https://twitter.com/hugovk>`_ respectively. Additional thanks to Christoph Gohlke for `Windows Eggs, Exes, Wheels <https://pypi.python.org/pypi/Pillow/2.6.0#downloads>`_, Matthew Brett for `OS X Wheels <https://github.com/python-pillow/Pillow/issues/766>`_, and Steve Johnson for `Sphinx Documentation <https://github.com/python-pillow/Pillow/issues/769>`_.
 
 |
+
+.. |Pillow project| raw:: html
+
+   <a href="https://python-pillow.org/" target="_blank">Pillow project</a>
