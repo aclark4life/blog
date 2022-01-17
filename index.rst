@@ -35,6 +35,7 @@ Articles
    2012/01/30/new-vanity-release/index
    2013/02/23/trading-places-trading-scene-explained/index
    2014/10/02/pillow-runs-itself/index
+   2015/02/10/please-do-my-homework/index
    now/index
 
 |
