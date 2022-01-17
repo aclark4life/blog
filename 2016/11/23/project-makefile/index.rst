@@ -3,16 +3,20 @@
 Project Makefile
 ================
 
+|
+
 .. feed-entry::
    :date: 2016-11-23
 
-A while back |I was asked| to present to the |cmwg|.
+|
 
 .. image:: /images/project-makefile-tweet.png
     :align: center
     :class: blog-image
 
-From that moment on I had an excuse to finish and talk about the ``Makefile`` I'd been dragging around formally since January and informally for much longer.
+|
+
+A while back |I was asked| to present to the |cmwg|. From that moment on I had an excuse to finish and talk about the ``Makefile`` I'd been dragging around formally since January and informally for much longer.
 
 Finishing the Makefile
 ----------------------

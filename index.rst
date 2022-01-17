@@ -37,6 +37,7 @@ Articles
    2014/10/02/pillow-runs-itself/index
    2015/02/10/please-do-my-homework/index
    2016/11/23/project-makefile/index
+   2017/06/26/saml-1-alex-clark-0/index
    now/index
 
 |
