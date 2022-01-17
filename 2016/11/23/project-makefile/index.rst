@@ -6,12 +6,11 @@ Project Makefile
 .. feed-entry::
    :date: 2016-11-23
 
-Makefile for Python Web Development & Related Projects. Open for Business. A while back I was asked to present to the |cmwg|.
+A while back |I was asked| to present to the |cmwg|.
 
 .. image:: /images/project-makefile-tweet.png
     :align: center
     :class: blog-image
-    :target: https://twitter.com/CMWorkingGrp/status/773228143939293185
 
 From that moment it was on: an excuse to finish and talk about the ``Makefile`` I'd been dragging around formerly since January and informerly for much longer.
 
@@ -61,3 +60,7 @@ I invite everyone to use and contribute.
 .. |project-makefile| raw:: html
 
     <a target="_blank" href="https://github.com/aclark4life/project-makefile">https://github.com/aclark4life/project-makefile</a>
+
+.. |i was asked| raw:: html
+
+    <a href="https://twitter.com/CMWorkingGrp/status/773228143939293185">I was asked</a>
