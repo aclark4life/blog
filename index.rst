@@ -32,6 +32,7 @@ Articles
    2009/12/31/new-years-python-meme/index
    2010/03/30/a-new-plone-book/index
    2011/02/16/cioppino-sprint-report/index
+   2012/01/30/new-vanity-release/index
    now/index
 
 |
