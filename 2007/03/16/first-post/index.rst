@@ -19,14 +19,6 @@ First Post
 .. role:: strike
     :class: strike
 
-.. raw:: html
-
-    <style>
-    .strike {
-      text-decoration: line-through;
-    }
-    </style>
-
 |
 
 I have decided to start a blog. Why? Because Plone allows me to do so. But also:
