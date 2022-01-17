@@ -45,7 +45,7 @@ The bottom line is this: Plone made a conscious decision to ``"become more Pytho
 
 Let me correct myself: I am fairly certain Buildout was the right way to go at the time. What I am not sure about is where to go from here. It would be nice to get back to a place where folks could just drop packages in to a directory (I don't literally mean going back to old-style products, but perhaps we could provide that type of functionality again somehow). But I don't have an answer for that. In the meantime, let's make everyone more comfortable with using Buildout.
 
-About The Rest
+About the Rest
 --------------
 
 The book teaches you to find your way around Buildout and Plone. Whether you choose to follow along and build your site from scratch using only Buildout (and a paper clip) or if you use one of the Buildout-based installers (like the Unified Installer), this book aims to make you more competent and comfortable performing a variety of Buildout-related tasks.
@@ -54,7 +54,7 @@ In Chapters 2-7, we present various buildout configuration files that correspond
 
 In the final Chapter 8, we cover new technologies like XDV and repoze.zope2 which may become more mainstream once you decide to start using them (although the latter seems more like a toy to keep us busy until the real fix arrives: full WSGI support in Zope 2.
 
-When It Will Arrive
+When Will it Arrive
 -------------------
 
 PACKT originally announced the book will arrive in March and I have been working non-stop since mid-March to make sure it gets out the door as quickly as possible. I expect it to be available sson. I apologize to those of you who have pre-ordered and are now waiting for it.
