@@ -32,7 +32,7 @@ That would be |Zenoss|. I'm very impressed with the application as well as the c
 What new programming technique did you learn in 2009?
 -----------------------------------------------------
 
-Generally speaking, I'm happy with my progress as a Plone integrator, plowing through the tremendous Plone code stack, on my way to complete mastery. I may never get there, but I'm having fun trying. In other words, I know a lot more about how far the Zope2/CMF/Five rabbit hole goes. If I had to pick, I'd choose Grok in Plone, mostly as it relates to Dexterity. I created |collective.project| as a result, or rather, I converted the package to use Dexterity types so I could learn Dexterity, in part ;-). At first I was angry at being "forced" to use Grok techniques in Plone, but then it grew on me.
+Generally speaking, I'm happy with my progress as a Plone integrator, plowing through the tremendous Plone code stack, on my way to complete mastery. I may never get there, but I'm having fun trying. In other words, I know a lot more about how far the Zope2/CMF/Five rabbit hole goes. If I had to pick, I'd choose Grok in Plone, mostly as it relates to Dexterity. I created |collective.project| as a result, or rather, I converted the package to use Dexterity types so I could learn Dexterity, in part. At first I was angry at being forced to use Grok techniques in Plone, but then it grew on me.
 
 What’s the name of the open source project you contributed the most in 2009? What did you do?
 ---------------------------------------------------------------------------------------------
