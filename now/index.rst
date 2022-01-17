@@ -18,7 +18,7 @@ I'm in Bethesda, MD, USA spending all my time on:
 - President of |aclark_net|.
 - President & Executive Director of |dc_python|.
 
-Last updated January 2022. More |now|
+Last updated January 2022. More |now|.
 
 |
 
@@ -42,4 +42,4 @@ Last updated January 2022. More |now|
 
 .. |now| raw:: html
 
-    <a href="https://nownownow.com" target="_blank">sites with a now page…</a>
+    <a href="https://nownownow.com" target="_blank">sites with a now page</a>
