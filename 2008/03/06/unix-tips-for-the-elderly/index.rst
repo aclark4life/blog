@@ -45,6 +45,9 @@ The problem is that sometimes the filenames have spaces in them which will cause
 
 Useless.
 
+Replace Beginning and End of Line with Quotes
+---------------------------------------------
+
 The best fix I've managed to come up with is to replace the beginning and end of the line with quotes to make the shell happy.
 
 E.g.
