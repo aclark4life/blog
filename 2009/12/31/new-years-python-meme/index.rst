@@ -12,6 +12,7 @@ New Year's Python Meme
 
 .. image:: /images/lenin_packaging.png 
     :align: center
+    :class: blog-image
 
 .. https://stackoverflow.com/a/6652379
 

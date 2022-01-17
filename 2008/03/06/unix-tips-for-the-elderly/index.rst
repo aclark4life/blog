@@ -12,6 +12,7 @@ UNIX Tips for the Elderly
 
 .. image:: /images/huh.png
     :align: center
+    :class: blog-image
 
 |
 

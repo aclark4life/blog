@@ -1,17 +1,25 @@
+|
+
 Cioppino Sprint Report
 ======================
+
+|
 
 .. feed-entry::
    :date: 2011-02-16
 
-**The Cioppino Sprint was held in Bodega Bay, CA in 2011.**
-
-It was a `beautiful location`_ for a gathering of awesome Plone folks; and much was accomplished.
+|
 
 .. image:: /images/bodega.jpg
-    :alt: Bodega Bay
     :align: center
     :class: blog-image
+
+|
+
+
+In memory of |Dorneles Treméa|.
+
+The Cioppino Sprint was held in Bodega Bay, CA in 2011. It was a |beautiful location| for a gathering of awesome Plone folks; and much was accomplished.
 
 .. dorneles
 
@@ -46,13 +54,10 @@ It was a `beautiful location`_ for a gathering of awesome Plone folks; and much 
 
     Anyway, the sprint (or at least my part of it) was awesome! Amidst the very sad and shocking news of Dorneles' passing, we all kept busy with our work.
 
-Sprint report
--------------
-
 It's a bit overwhelming to try and capture everything that happened (and I was only there for two days!); hopefully this report will be useful. The focus of this sprint was evaluator approachability (i.e. making Plone look good to prospective new users).
 
 Day 1 and Day 2 
-~~~~~~~~~~~~~~~~
+---------------
 
 Steve McMahon (SteveM) was our host. Alex Limi (limi) provided general direction regarding strategies to improve plone.net, documentation, and end user support. But most importantly, he pointed out that the first stop for any prospective new user is the website, so it's important that it look good.
 
@@ -64,46 +69,53 @@ We closed a good number of tickets this way.
 
 Additionally:
 
--  Ross Patterson (zenwryly) grabbed a hold of the `PloneOrg add-on`_ (the add-on that powers plone.org) and added tests (among other things).
--  Tyler Randles (hennaheto) and Trish Ang (feeeeesh) fixed a number of CSS annoyances, which were `committed by SteveM`_ (while Tyler & Trish pondered core commit access). My favorite of which is the now-blissfully-aligned username and password fields of the login\_form:
--  zenwryly fixed the `team section`_ of plone.org.
--  davisagli completed the last remaining task to fix `PloneSoftwareCenter`_ permissions on plone.org (the sharing tab finally works now!)
--  limi `fixed a CSS sprite issue`_ on plone.org (involving https, I think).
--  SteveM tackled `SSL certificate issues`_ on plone.org.
--  aclark took a stab at plone.net by converting the old style add-on Product that powers it to a `new style Egg package`_. zenwryly then `took that ball and ran with it`_, added tests and otherwise prepared for the future (i.e. Plone 4 compat).
--  Jon Stahl (remotely) added a `"follow" section`_ to plone.org.
--  hennaheto and feeeeesh produced this amazing (but `possibly non-compliant`_) sprint logo
+- Ross Patterson (zenwryly) grabbed a hold of the `PloneOrg add-on`_ (the add-on that powers plone.org) and added tests (among other things).
+- Tyler Randles (hennaheto) and Trish Ang (feeeeesh) fixed a number of CSS annoyances, which were `committed by SteveM`_ (while Tyler & Trish pondered core commit access). My favorite of which is the now-blissfully-aligned username and password fields of the login\_form:
+- zenwryly fixed the `team section`_ of plone.org.
+- davisagli completed the last remaining task to fix `PloneSoftwareCenter`_ permissions on plone.org (the sharing tab finally works now!)
+- limi `fixed a CSS sprite issue`_ on plone.org (involving https, I think).
+- SteveM tackled `SSL certificate issues`_ on plone.org.
+- aclark took a stab at plone.net by converting the old style add-on Product that powers it to a `new style Egg package`_. zenwryly then `took that ball and ran with it`_, added tests and otherwise prepared for the future (i.e. Plone 4 compat).
+- Jon Stahl (remotely) added a `"follow" section`_ to plone.org.
+- hennaheto and feeeeesh produced this amazing (but `possibly non-compliant`_) sprint logo
 
 Day 3, Day 4 and Day 5 
-~~~~~~~~~~~~~~~~~~~~~~~
+----------------------
 
 Unfortunately, I had to leave on Friday morning but these are some of the things that happened after I left. Most importantly, Tom Kapanka (spanktar) arrived Thursday night and Bill Deegan arrived on Friday. And then:
 
--  zenwryly updated PloneServicesCenter to Plone 4.
--  limi and zenwryly replaced images of "showcased sites" in PloneServicesCenter with a web screenshot service to eliminate the need for storing images. (This move is still in progress, and various folks are working on issues with the web screenshot service. Please be patient!)
--  zenwryly and limi moved content from plone.net to plone.org.
--  aclark (remotely) pulled the DNS trigger on plone.net (re-configured A records for plone.net, to resolve to the same IP as plone.org)
--  eleddy and spanktar created and released `cioppino.twothumbs`_ to facilitate "thumb style" (up/down) ratings in PloneSoftwareCenter.
--  davisagli made it so Plone can start without PIL (via fixes to PlonePAS and plone.app.blob). And these fixes even made it in to Plone 4.1a3! To be clear, Plone still requires PIL to render images but it will start if it's missing.
--  davisagli and eleddy refactored the PloneOrg buildout
--  Bill and limi moved the remaining old Plone installers from Sourceforge to `dist.plone.org`_.
+- zenwryly updated PloneServicesCenter to Plone 4.
+- limi and zenwryly replaced images of "showcased sites" in PloneServicesCenter with a web screenshot service to eliminate the need for storing images. (This move is still in progress, and various folks are working on issues with the web screenshot service. Please be patient!)
+- zenwryly and limi moved content from plone.net to plone.org.
+- aclark (remotely) pulled the DNS trigger on plone.net (re-configured A records for plone.net, to resolve to the same IP as plone.org)
+- eleddy and spanktar created and released `cioppino.twothumbs`_ to facilitate "thumb style" (up/down) ratings in PloneSoftwareCenter.
+- davisagli made it so Plone can start without PIL (via fixes to PlonePAS and plone.app.blob). And these fixes even made it in to Plone 4.1a3! To be clear, Plone still requires PIL to render images but it will start if it's missing.
+- davisagli and eleddy refactored the PloneOrg buildout
+- Bill and limi moved the remaining old Plone installers from Sourceforge to `dist.plone.org`_.
 
 Post-sprint sprinting
-~~~~~~~~~~~~~~~~~~~~~
+---------------------
 
 One of the great things about a sprint is that it really focuses
 attendees on accomplishing their tasks, long after they have left the
 event. To that end:
 
--  aclark triaged the remaining tickets in the plone.org tracker, and did a final tally of closed ticket rankings: davisagli (55), aclark (32), eleddy (28), limi (7). davisagli wins!
--  aclark got inspired to begin uploading the half dozen or so missing videos from various Plone Conference 2008 talks (which were finally sent to him by the video company circa last year). Look for these to `land on plone.org`_ soon.
--  eleddy continued to develop the “two thumbs” feature.
--  eleddy and aclark deployed the "two thumbs" feature to plone.org.  (This feature may not work as expected yet, eleddy is resolving issues.) Check it out:
--  limi continued to improve the documentation/ and support/ sections of plone.org.
+- aclark triaged the remaining tickets in the plone.org tracker, and did a final tally of closed ticket rankings: davisagli (55), aclark (32), eleddy (28), limi (7). davisagli wins!
+- aclark got inspired to begin uploading the half dozen or so missing videos from various Plone Conference 2008 talks (which were finally sent to him by the video company circa last year). Look for these to `land on plone.org`_ soon.
+- eleddy continued to develop the “two thumbs” feature.
+- eleddy and aclark deployed the "two thumbs" feature to plone.org.  (This feature may not work as expected yet, eleddy is resolving issues.) Check it out:
+- limi continued to improve the documentation/ and support/ sections of plone.org.
 
 That's it! Just so you don't worry the sprinters worked too hard, you can rest assured everyone was in good hands with zenwryly and his travelling-bar.
 
-.. _beautiful location: http://twitpic.com/3y21yk
+.. |beautiful location| raw:: html
+
+   <a href="http://twitpic.com/3y21yk" target="_blank">beautiful location</a>
+
+.. |Dorneles Treméa| raw:: html
+
+   <a href="https://plone.org/news/2011/community-mourns-dorneles-tremea" target="_blank">Dorneles Treméa</a>
+
 .. _ExternalStorage: http://pypi.python.org/pypi/Products.ExternalStorage
 .. _`http://associacao.python.org.br/doacoes-familia-dorneles`: http://associacao.python.org.br/doacoes-familia-dorneles
 .. _plone.org issue tracker: http://dev.plone.org/plone.org
@@ -120,3 +132,5 @@ That's it! Just so you don't worry the sprinters worked too hard, you can rest a
 .. _cioppino.twothumbs: http://pypi.python.org/pypi/cioppino.twothumbs/1
 .. _dist.plone.org: http://dist.plone.org/archive/
 .. _land on plone.org: http://plone.org/2008
+
+

@@ -12,6 +12,7 @@ A New Plone Book
 
 .. image:: /images/7047_plone20site20admincov.5ae6fff11a65.jpg
     :align: center
+    :class: blog-image
 
 |
 
