@@ -25,7 +25,7 @@ For the past 14 months or so, I have been writing a book aimed at end users of P
 Lowering the Plone Bar for Python Users
 ---------------------------------------
 
-This book aims to ``lower the Plone bar for users of Python``. What do I mean by that? Basically this: I love Python almost as much as I love Plone. It lets me translate my thoughts directly into code. I fantasize that with little more than a Python interpreter, one can forge a working Plone site within minutes. But it is not just a fantasy, it is (more or less) the status quo.
+This book aims to ``"lower the Plone bar for users of Python"``. What do I mean by that? Basically this: I love Python almost as much as I love Plone. It lets me translate my thoughts directly into code. I fantasize that with little more than a Python interpreter, one can forge a working Plone site within minutes. But it is not just a fantasy, it is (more or less) the status quo.
 
 So, this book begins at the beginning: by making sure folks are comfortable installing and using Python on there operating system of choice (or using the pre-installed Python). If you read Professional Plone Development, you may recall Martin Aspeli saying at the beginning of Chapter 3:
 
@@ -38,7 +38,7 @@ In Chapter 1, we cover installing and running Python on three popular operating 
 Buildout
 --------
 
-This book is largely a response to the "Oh no! I have to use Buildout to install Plone and its add-ons!" sentiment that has been prevalent since Buildout was first introduced to Plone several years ago. I don't know if Buildout was the "right" way to go, but I do know that I love using it and I would like to help others feel the same way.
+This book is largely a response to the ``"Oh no! I have to use Buildout to install Plone and its add-ons!"`` sentiment that has been prevalent since Buildout was first introduced to Plone several years ago. I don't know if Buildout was the "right" way to go, but I do know that I love using it and I would like to help others feel the same way.
 
 The bottom line is this: Plone made a conscious decision to "become more Pythonic" by using eggs. With that choice came more complexity from potential conflicts between eggs. Buildout is one solution to that problem. Unfortunately, it introduces other problems like cryptic error messages and a certain too-many-moving-parts-ness.
 
