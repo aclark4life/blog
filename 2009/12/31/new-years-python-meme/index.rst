@@ -49,7 +49,9 @@ What are the three top things you want to learn in 2010?
 -  `WSGI`_
 -  `Plone 4 core development`_
 
-Happy (Python) New Year everyone!
+Happy New Year everyone!
+
+|
 
 .. _Zenoss: http://zenoss.org
 .. _`http://plone.org/products/dexterity/documentation/manual/five.grok`: http://plone.org/products/dexterity/documentation/manual/five.grok
