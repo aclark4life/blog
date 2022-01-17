@@ -10,7 +10,9 @@ Please Do My Homework
 
 |
 
-I am being driven insane by Redditors asking `/r/Python <http://www.reddit.com/r/Python>`_ to do their homework for them. E.g.
+I am being driven insane by Redditors asking |/r/Python|. 
+
+to do their homework for them. E.g.
 
 .. image:: /images/homework1.png
     :alt: Question #1
@@ -65,3 +67,7 @@ I'm just saying!
    <a href="https://twitter.com/intent/tweet?screen_name=aclark4life&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @aclark4life</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 |
+
+.. |r/Python| raw:: html
+
+   <a href="http://www.reddit.com/r/Python" target="_blank">r/Python</a>
