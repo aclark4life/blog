@@ -13,7 +13,7 @@ Pillow Runs Itself
 As of Pillow 2.6.0, the Pillow project runs itself! Of course when I say "runs itself" I mean "runs without me", which is what every open source project lead hopes for. For the first time ever, I was able to:
 
 - Turn off GitHub Watching until two weeks before the release.
-- Not run `setup.py upload` or `twine upload` myself.
+- Not run ``setup.py upload`` or ``twine upload`` myself.
 - Watch in awe as the Pillow team did all the work. [1]
 
 Kudos to these gentlemen for making my life easier and for continuing to provide the Python community with a featureful, modern & secure Python Imaging Library.
