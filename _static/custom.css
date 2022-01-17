@@ -18,7 +18,3 @@ h1 {
 .toctree-l1::before {
     content: "➥ "
 }
-
-.strike {
-    text-decoration: line-through;
-}

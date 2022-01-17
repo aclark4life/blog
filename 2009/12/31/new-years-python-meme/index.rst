@@ -61,8 +61,8 @@ What are the three top things you want to learn in 2010?
 --------------------------------------------------------
 
 - |Zenoss|
-- :strike: WSGI
-- :strike: Plone 4 core development
+- :strike:WSGI
+- :strike:Plone 4 core development
 
 Happy New Year everyone!
 
