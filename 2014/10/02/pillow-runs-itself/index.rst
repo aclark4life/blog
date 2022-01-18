@@ -25,6 +25,10 @@ Lastly thanks to all the contributors from all over the world who continue to de
 
 .. [1] |Eric| and |Hugo|.
 
+.. raw:: html
+
+   <a href="https://twitter.com/intent/tweet?screen_name=aclark4life&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @aclark4life</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 |
 
 .. |Eric| raw:: html

@@ -62,7 +62,7 @@ I'm just saying!
 
 .. raw:: html
 
-   <a href="https://twitter.com/intent/tweet?screen_name=aclark4life&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @aclark4life</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+   <a href="https://twitter.com/intent/tweet?screen_name=aclark4life&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @aclark4life</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 |
 

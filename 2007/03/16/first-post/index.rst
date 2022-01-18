@@ -46,6 +46,10 @@ There are probably even more to choose from, but for now I enjoy typing:
 
 and having a working instance a few seconds later with Product{A,B,C} installed.
 
+.. raw:: html
+
+   <a href="https://twitter.com/intent/tweet?screen_name=aclark4life&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @aclark4life</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 |
 
 .. https://stackoverflow.com/a/11718325

@@ -75,4 +75,8 @@ I found a bunch of cool Python tooling for dealing with all-things-SAML that I w
 
 Consider a commercial IdP like OneLogin or Auth0.
 
+.. raw:: html
+
+   <a href="https://twitter.com/intent/tweet?screen_name=aclark4life&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @aclark4life</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 |

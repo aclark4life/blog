@@ -108,6 +108,10 @@ event. To that end:
 
 That's it! Just so you don't worry the sprinters worked too hard, you can rest assured everyone was in good hands with zenwryly and his travelling-bar.
 
+.. raw:: html
+
+   <a href="https://twitter.com/intent/tweet?screen_name=aclark4life&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @aclark4life</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 |
 
 .. |beautiful location| raw:: html

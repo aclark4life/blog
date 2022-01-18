@@ -61,6 +61,10 @@ PACKT originally announced the book will arrive in March and I have been working
 
 So get ready! I plan to have over 200 pages of draft material submitted by the end of this month. I will continue to work with PACKT to address any concerns that arise during editing. They have promised to try to ship the book by May, so we will see how it goes. I encourage you to pre-order now as that will go a long way to inspire them to work just that much harder to get it done and out to you, ASAP.
 
+.. raw:: html
+
+   <a href="https://twitter.com/intent/tweet?screen_name=aclark4life&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @aclark4life</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 |
 
 .. |Plone Conference 2006| raw:: html
