@@ -56,9 +56,6 @@ html_theme = "alabaster"
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ["_static"]
 
-# RSS
-extensions.append("sphinxcontrib.newsfeed")
-
 # https://alabaster.readthedocs.io/en/latest/customization.html
 html_theme_options = {
     "show_powered_by": False,

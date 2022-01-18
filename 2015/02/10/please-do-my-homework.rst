@@ -5,11 +5,6 @@ Please Do My Homework
 
 |
 
-.. feed-entry::
-   :date: 2015-02-10
-
-|
-
 I am being driven insane by redditors asking |r_Python| to do their homework for them. E.g.
 
 .. image:: /images/homework1.png

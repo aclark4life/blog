@@ -1,15 +1,3 @@
-.. project documentation master file, created by
-   sphinx-quickstart on Mon Mar 30 13:40:58 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-.. raw:: html
-
-    <link rel="alternate"
-      type="application/rss+xml"
-      title="Alex Clark's Blog"
-      href="/index.rss" />
-
 |
 
 Jeffrey A. Clark, "Alex"

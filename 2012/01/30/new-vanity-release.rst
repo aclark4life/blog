@@ -5,11 +5,6 @@ New Vanity Release
 
 |
 
-.. feed-entry::
-   :date: 2012-01-30
-
-|
-
 This release features the ability to display per package download statistics. E.g.
 
 Vanity

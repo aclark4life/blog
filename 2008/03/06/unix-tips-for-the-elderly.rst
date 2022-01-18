@@ -5,11 +5,6 @@ UNIX Tips for the Elderly
 
 |
 
-.. feed-entry::
-   :date: 2008-03-06
-
-|
-
 .. image:: /images/huh.png
     :align: center
     :class: blog-image

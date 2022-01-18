@@ -5,11 +5,6 @@ Cioppino Sprint Report
 
 |
 
-.. feed-entry::
-   :date: 2011-02-16
-
-|
-
 .. image:: /images/bodega.jpg
     :align: center
     :class: blog-image

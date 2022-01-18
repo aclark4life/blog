@@ -5,11 +5,6 @@ First Post
 
 |
 
-.. feed-entry::
-   :date: 2007-03-16
-
-|
-
 .. image:: /images/look-at-me.jpg
     :align: center
     :class: blog-image

@@ -5,11 +5,6 @@ Project Makefile
 
 |
 
-.. feed-entry::
-   :date: 2016-11-23
-
-|
-
 .. image:: /images/project-makefile-tweet.png
     :align: center
     :class: blog-image

@@ -5,11 +5,6 @@ New Year's Python Meme
 
 |
 
-.. feed-entry::
-   :date: 2009-12-31
-
-|
-
 .. image:: /images/lenin_packaging.png 
     :align: center
     :class: blog-image

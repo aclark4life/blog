@@ -5,11 +5,6 @@ SAML: 1, Alex Clark: 0
 
 |
 
-.. feed-entry::
-   :date: 2017-06-26
-
-|
-
 .. image:: /images/saml-failure-complete.jpg
     :align: center
     :class: blog-image
