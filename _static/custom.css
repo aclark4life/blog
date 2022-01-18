@@ -29,3 +29,7 @@ blockquote {
   background: #eeeeee;
   padding: 1em;
 }
+
+ul {
+    list-style: none;
+}

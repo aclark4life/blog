@@ -3,6 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. raw:: html
+
+    <link rel="alternate"
+      type="application/rss+xml"
+      title="Alex Clark's Blog"
+      href="/index.rss" />
+
 |
 
 Jeffrey A. Clark, "Alex"
@@ -20,6 +27,8 @@ Jeffrey A. Clark, "Alex"
 - Creator of |python_pillow|
 - President of |aclark_net|
 - President & Executive Director of |dc_python|
+
+|
 
 .. raw:: html
 
