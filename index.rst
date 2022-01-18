@@ -21,6 +21,10 @@ Jeffrey A. Clark, "Alex"
 - President of |aclark_net|
 - President & Executive Director of |dc_python|
 
+.. raw:: html
+
+   <a href="https://twitter.com/intent/tweet?screen_name=aclark4life&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @aclark4life</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Articles
 --------
 
@@ -39,10 +43,6 @@ Articles
    2016/11/23/project-makefile
    2017/06/26/saml-1-alex-clark-0
    now
-
-.. raw:: html
-
-   <a href="https://twitter.com/intent/tweet?screen_name=aclark4life&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @aclark4life</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 |
 
