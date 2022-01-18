@@ -6,7 +6,6 @@ Jeffrey A. Clark, "Alex"
 |
 
 .. image:: images/aclark-jobs.jpg
-   :class: blog-image
    :align: center
 
 |
