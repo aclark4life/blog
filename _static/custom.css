@@ -1,33 +1,29 @@
-body {
-    background: #EEEEEE;
-}
-
 .blog-image {
-    border: 6px solid #EEEEEE;
-    border-radius: 6px;
+  border: 6px solid #EEEEEE;
+  border-radius: 6px;
+  width: 100%;
+  height: auto;
 }
-
-h1 {
-    text-align: center;
-}
-
-.toctree-l1 {
-    margin: 0.5rem 0 0.5rem 0;
-}
-
-/*
-.toctree-l1::before {
-    content: "➥ "
-}
-*/
 
 .strike {
   text-decoration: line-through;
 }
 
+.toctree-l1 {
+  margin: 0.5rem 0 0.5rem 0;
+}
+
+body {
+  background: #EEEEEE;
+}
+
 blockquote {
   background: #eeeeee;
   padding: 1em;
+}
+
+h1 {
+  text-align: center;
 }
 
 ul {
