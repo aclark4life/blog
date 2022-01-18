@@ -66,6 +66,7 @@ html_theme_options = {
     "logo_name": True,
     "font_family": "Helvetica",
     "analytics_id": "UA-175892000-1",
+    "tidelift_url": "https://tidelift.com/subscription/pkg/pypi-pillow",
 }
 
 html_sidebars = {
