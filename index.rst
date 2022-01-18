@@ -43,11 +43,6 @@ Articles
 
 |
 
-.. feed::
-   :rss: index.rss
-   :title: Alex Clark's Blog
-   :link: https://blog.aclark.net/
-
 .. Links
 
 .. |headstraight| raw:: html
