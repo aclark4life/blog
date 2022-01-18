@@ -65,10 +65,7 @@ html_theme_options = {
     "show_relbars": True,
     "logo_name": True,
     "font_family": "Helvetica",
-    # "donate_url": "https://www.patreon.com/headstraight",
-    # "extra_nav_links": {"Now": "/now/index.html", "RSS": "/index.rss",},
-    # "github_user": "aclark4life",
-    # "github_button": True,
+    "analytics_id": "UA-175892000-1",
 }
 
 html_sidebars = {
