@@ -31,18 +31,18 @@ Articles
 .. toctree::
    :maxdepth: 1
 
-   2007/03/16/first-post
-   2008/03/06/unix-tips-for-the-elderly
-   2009/12/31/new-years-python-meme
-   2010/03/30/a-new-plone-book
-   2011/02/16/cioppino-sprint-report
-   2012/01/30/new-vanity-release
-   2013/02/23/trading-places-trading-scene-explained
-   2014/10/02/pillow-runs-itself
-   2015/02/10/please-do-my-homework
-   2016/11/23/project-makefile
-   2017/06/26/saml-1-alex-clark-0
    now
+   2017/06/26/saml-1-alex-clark-0
+   2016/11/23/project-makefile
+   2015/02/10/please-do-my-homework
+   2014/10/02/pillow-runs-itself
+   2013/02/23/trading-places-trading-scene-explained
+   2012/01/30/new-vanity-release
+   2011/02/16/cioppino-sprint-report
+   2010/03/30/a-new-plone-book
+   2009/12/31/new-years-python-meme
+   2008/03/06/unix-tips-for-the-elderly
+   2007/03/16/first-post
 
 |
 
