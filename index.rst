@@ -5,7 +5,7 @@ Jeffrey A. Clark, "Alex"
 
 |
 
-.. image:: images/aclark-jobs.jpg
+.. image:: images/alexjaxx-crop.png
    :align: center
 
 |
