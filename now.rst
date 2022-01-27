@@ -5,7 +5,7 @@ What I'm Doing Now
 
 |
 
-.. image:: /images/aclark-distant.jpg
+.. image:: /images/alexjaxx.jpg
    :class: blog-image
    :align: center
 
