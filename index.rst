@@ -1,6 +1,6 @@
 |
 
-Jeffrey A. Clark, "Alex"
+Jeffrey A Clark (Alex)
 ===================================
 
 |
