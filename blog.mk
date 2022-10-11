@@ -4,3 +4,11 @@ eb-deploy:
 
 readme-build:
 	$(MAKE) sphinx-build
+
+
+readme-edit:
+	$(MAKE) sphinx-edit
+
+
+sphinx-edit:
+	vi index.rst
