@@ -74,6 +74,6 @@ html_permalinks = True
 html_permalinks_icon = "📌"
 
 
-html_favicon = "images/alexjaxx-crop.jpg"
+html_favicon = "images/alexjaxx-crop.png"
 
 html_title = "Blog"
