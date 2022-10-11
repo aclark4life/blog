@@ -49,7 +49,7 @@ Articles
 
 .. |headstraight| raw:: html
 
-    <a href="http://headstraightband.com" target="_blank">Headstraight</a>
+    <a href="https://headstraightband.com" target="_blank">Headstraight</a>
 
 .. |aclark_net| raw:: html
 
