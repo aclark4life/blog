@@ -17,6 +17,7 @@ I'm in Bethesda, MD, USA spending all my time on:
 - Creator of |python_pillow|.
 - President of |aclark_net|.
 - President & Executive Director of |dc_python|.
+- Blogging at |python_packages|.
 
 Last updated Q4 2022. More |now|.
 
@@ -43,3 +44,7 @@ Last updated Q4 2022. More |now|.
 .. |now| raw:: html
 
     <a href="https://nownownow.com" target="_blank">sites with a now page</a>
+
+.. |python_packages| raw:: html
+
+    <a href="https://pythonpackages.com" target="_blank">pythonpackages.com</a>
