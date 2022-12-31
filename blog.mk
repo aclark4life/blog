@@ -5,10 +5,14 @@ eb-deploy:
 readme-build:
 	$(MAKE) sphinx-build
 
-
 readme-edit:
 	$(MAKE) sphinx-edit
 
+readme-open:
+	open http://0.0.0.0:8000
 
 sphinx-edit:
 	vi index.rst
+
+django-serve:
+	$(MAKE) sphinx-serve
