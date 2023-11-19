@@ -9,8 +9,6 @@ SELinux: 0, Alex Clark: 1
     :align: center
     :class: blog-image
 
-|
-
 Introduction
 ------------
 
@@ -108,12 +106,13 @@ I would love to say I immediately recognized the issue as being related to SE Li
 
   "Maybe the version of Samba is too old!"
 
-And then there was hombrew
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+And then there was hombrew, and the brew was good
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+My experience with Homebrew on macOS led me to try running Samba on Linux via Homebrew. It worked! The Samba version was newer, and the connection worked fine. Unfortunately I couldn't get systemd to run the Homebrew version of Samba, so after fighting with that for a while, I gave up.
 
-Have you compiled the source lately?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+What source have you compiled for me lately?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Light Bulb
