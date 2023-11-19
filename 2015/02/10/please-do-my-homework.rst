@@ -55,6 +55,8 @@ In the real world, you cannot say to your friends and/or coworkers:
 
 I'm just saying!
 
+|
+
 .. |r_Python| raw:: html
 
    <a href="http://www.reddit.com/r/Python" target="_blank">/r/Python</a>

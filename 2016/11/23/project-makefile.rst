@@ -45,6 +45,8 @@ Now it looks like this:
 
 I now invite everyone to use and contribute.
 
+|
+
 - |project-makefile|
 
 .. |cmwg| raw:: html

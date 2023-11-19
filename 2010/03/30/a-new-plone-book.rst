@@ -56,6 +56,8 @@ PACKT originally announced the book will arrive in March and I have been working
 
 So get ready! I plan to have over 200 pages of draft material submitted by the end of this month. I will continue to work with PACKT to address any concerns that arise during editing. They have promised to try to ship the book by May, so we will see how it goes. I encourage you to pre-order now as that will go a long way to inspire them to work just that much harder to get it done and out to you, ASAP.
 
+|
+
 .. |Plone Conference 2006| raw:: html
 
    <a href="http://plone.org/events/conferences/seattle-2006" target="_blank">Plone Conference 2006</a>

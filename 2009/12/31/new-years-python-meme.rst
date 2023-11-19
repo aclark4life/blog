@@ -54,6 +54,8 @@ What are the three top things you want to learn in 2010?
 
 Happy New Year, everyone!
 
+|
+
 .. |Plone Conference 2008| raw:: html
 
    <a href="http://plone.org/events/conferences/2008-washington-dc" target="_blank">Plone Conference 2008</a>

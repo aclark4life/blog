@@ -103,6 +103,8 @@ event. To that end:
 
 That's it! Just so you don't worry the sprinters worked too hard, you can rest assured everyone was in good hands with zenwryly and his travelling-bar.
 
+|
+
 .. |beautiful location| raw:: html
 
    <a href="http://twitpic.com/3y21yk" target="_blank">beautiful location</a>

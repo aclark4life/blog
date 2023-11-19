@@ -41,6 +41,8 @@ There are probably even more to choose from, but for now I enjoy typing:
 
 and having a working instance a few seconds later with Product{A,B,C} installed.
 
+|
+
 .. https://stackoverflow.com/a/11718325
 
 .. |planet_plone| raw:: html

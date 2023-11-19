@@ -15,8 +15,9 @@ Kudos to them for making my life easier and for continuing to provide the Python
 
 Additional thanks to Christoph Gohlke for |Windows Eggs, Exes, Wheels|, Matthew Brett for |OS X Wheels| and Steve Johnson for |Sphinx Documentation|.
 
-
 Lastly thanks to all the contributors from all over the world who continue to develop and improve Pillow. I used to keep a list, but now there are |too many to keep track of|.
+
+|
 
 .. [1] |Eric| and |Hugo|.
 
