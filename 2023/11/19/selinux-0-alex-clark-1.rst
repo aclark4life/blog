@@ -39,6 +39,7 @@ Attempts
 If you Google or ChatGPT "Samba on Rocky Linux" you'll get steered toward something like:
 
 ::
+
     sudo dnf install xrdp
 
 Followed by some firewall instructions and if you are lucky, some SE Linux instructions. If you are unlucky you will proceed with:
@@ -51,6 +52,7 @@ Followed by some firewall instructions and if you are lucky, some SE Linux instr
 After which you can delight in ``sudo systemctl status smb``:
 
 ::
+
     parkwoodstudios➜  ~  ᐅ  sudo systemctl status smb
     ● smb.service - Samba SMB Daemon
          Loaded: loaded (/usr/lib/systemd/system/smb.service; enabled; preset: disabled)
