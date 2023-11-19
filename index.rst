@@ -6,6 +6,7 @@ Jeffrey A. Clark (Alex)
 |
 
 .. image:: images/alexjaxx-crop.png
+   :class: blog-image
    :align: center
 
 |
