@@ -25,6 +25,14 @@ Now the task at hand is running Samba on Rocky Linux 9. For years I ran File Sha
 
 .. image:: /images/server-2023.jpg
 
+It's been a lot of fun building out the services on this laptop running Rocky Linux 9, including:
+
+- Jenkins
+- RedHat Cockpit
+- Microsoft Remote Desktop 
+
+Having Samba fail mysteriously was not a fun, and I should have known better than to go down any rabbit hole without first considering SE Linux, but what can I say I've been out of the game for a while.
+
 Attempts
 --------
 
