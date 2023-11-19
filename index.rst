@@ -19,6 +19,14 @@ About
 
 |
 
+Now
+---
+
+.. toctree::
+   :maxdepth: 1
+
+   now
+
 Articles
 --------
 
@@ -37,7 +45,6 @@ Articles
    2009/12/31/new-years-python-meme
    2008/03/06/unix-tips-for-the-elderly
    2007/03/16/first-post
-   now
 
 |
 
