@@ -54,12 +54,6 @@ What are the three top things you want to learn in 2010?
 
 Happy New Year, everyone!
 
-.. raw:: html
-
-   <a href="https://twitter.com/intent/tweet?screen_name=aclark4life&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-size="large" data-show-count="false">Tweet to @aclark4life</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-|
-
 .. |Plone Conference 2008| raw:: html
 
    <a href="http://plone.org/events/conferences/2008-washington-dc" target="_blank">Plone Conference 2008</a>
