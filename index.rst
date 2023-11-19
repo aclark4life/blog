@@ -19,14 +19,6 @@ About
 
 |
 
-Now
----
-
-.. toctree::
-   :maxdepth: 1
-
-   now
-
 Articles
 --------
 
