@@ -18,12 +18,10 @@ I don’t like to give up on a technical challenge, particularly when the progre
 
 Sound familiar? I wrote about a `similar encounter six years ago <https://blog.aclark.net/2017/06/26/saml-1-alex-clark-0.html>`_!
 
-|
+The task at hand
+----------------
 
-Problem
--------
-
-|
+Now the task at hand is Samba on Rocky Linux 9. For years I ran File Sharing on a 2012 Mac Pro running Sierra and circumstances led me recently to replace that server with an HP Envy laptop with 11G RAM.
 
 Attempts
 --------
