@@ -5,3 +5,5 @@ deploy:
 deploy-clean:
 	aws s3 rm --recursive s3://blog.aclark.net/
 
+build:
+	$(MAKE) sphinx-build
