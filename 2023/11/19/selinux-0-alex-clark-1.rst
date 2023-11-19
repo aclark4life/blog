@@ -36,6 +36,9 @@ Having Samba fail mysteriously was not fun, and I should have known better than 
 Attempts
 --------
 
+In the beginning
+~~~~~~~~~~~~~~~~
+
 If you Google or ChatGPT "Samba on Rocky Linux" you'll get steered toward something like:
 
 ::
@@ -98,6 +101,14 @@ Unfortunately, the joyfulness will end when you try to connect, even though the 
     MAC Address: 30:24:32:39:7F:E7 (Intel Corporate)
 
     Nmap done: 1 IP address (1 host up) scanned in 9.30 seconds
+
+
+And then there was hombrew
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Have you compiled the source lately?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Light Bulb
