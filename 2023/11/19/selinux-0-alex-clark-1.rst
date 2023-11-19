@@ -104,7 +104,9 @@ Unfortunately, the joyfulness will end when you try to connect, even though the 
 
     Nmap done: 1 IP address (1 host up) scanned in 9.30 seconds
 
-I would love to say I immediately recognized the issue as being related to SE Linux, but I didn't.
+I would love to say I immediately recognized the issue as being related to SE Linux, but I didn't. In fact, I went in the opposite direction:
+
+  "Maybe the version of Samba is too old!"
 
 And then there was hombrew
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
