@@ -77,6 +77,29 @@ After which you can delight in ``sudo systemctl status smb``:
     Nov 18 15:04:46 parkwoodstudios smbd[1655]:   Copyright Andrew Tridgell and the Samba Team 1992-2022
     Nov 18 15:04:46 parkwoodstudios systemd[1]: Started Samba SMB Daemon.
 
+Unfortunately, the joyfulness will end when you try to connect, even though the ports are open:
+
+::
+
+
+    ╰─(blog) ⠠⠵ sudo nmap 192.168.1.2       
+    Password:
+    Starting Nmap 7.94 ( https://nmap.org ) at 2023-11-19 14:20 EST
+    Nmap scan report for parkwoodstudios.fios-router.home (192.168.1.2)
+    Host is up (0.022s latency).
+    Not shown: 979 filtered tcp ports (no-response), 15 filtered tcp ports (admin-prohibited)
+    PORT     STATE SERVICE
+    22/tcp   open  ssh
+    139/tcp  open  netbios-ssn
+    445/tcp  open  microsoft-ds
+    3389/tcp open  ms-wbt-server
+    8080/tcp open  http-proxy
+    9090/tcp open  zeus-admin
+    MAC Address: 30:24:32:39:7F:E7 (Intel Corporate)
+
+    Nmap done: 1 IP address (1 host up) scanned in 9.30 seconds
+
+
 Light Bulb
 ----------
 
