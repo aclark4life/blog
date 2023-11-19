@@ -21,7 +21,7 @@ Sound familiar? I wrote about a `similar encounter six years ago <https://blog.a
 The task at hand
 ----------------
 
-Now the task at hand is running Samba on Rocky Linux 9. For years I ran File Sharing on a 2012 Mac Pro running Sierra and recent circumstances led me to replace that server with an HP Envy laptop with 11G RAM. It's a surprisingly good server!
+Now the task at hand is running Samba on Rocky Linux 9. For years I ran File Sharing on a 2010 Mac Pro running Sierra and recent circumstances led me to replace that server with an HP Envy laptop with 11G RAM. It's a surprisingly good server!
 
 .. image:: /images/server-2023.jpg
 
@@ -42,7 +42,7 @@ If you Google or ChatGPT "Samba on Rocky Linux" you'll get steered toward someth
 
     sudo dnf install xrdp
 
-Followed by some firewall instructions and if you are lucky, some SE Linux instructions. If you are unlucky you will proceed with:
+Followed by some firewall instructions and, if you are lucky, some SE Linux instructions. If you are unlucky, you will proceed merrily with:
 
 ::
 
