@@ -36,6 +36,8 @@ Having Samba fail mysteriously was not fun, and I should have known better than 
 Attempts
 --------
 
+My recent encounter with Samba on Rocky Linux was embarrasingly long, but it started off normal.
+
 In the beginning
 ~~~~~~~~~~~~~~~~
 
@@ -102,6 +104,7 @@ Unfortunately, the joyfulness will end when you try to connect, even though the 
 
     Nmap done: 1 IP address (1 host up) scanned in 9.30 seconds
 
+I would love to say I immediately recognized the issue as being related to SE Linux, but I didn't.
 
 And then there was hombrew
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
