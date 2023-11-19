@@ -13,5 +13,3 @@ SELinux: 0, Alex Clark: 1!
 
 Introduction
 ------------
-
-I don't like to give up on a technical challenge, particularly when the progress is slow-but-consistent. It's only when I know I can't make any discernible progress easily or at all that I can force myself to give up.
