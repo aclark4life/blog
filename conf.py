@@ -60,9 +60,9 @@ html_static_path = ["_static"]
 html_theme_options = {
     "show_powered_by": False,
     "show_relbars": True,
-    "logo_name": True,
+    # "logo_name": True,
+    "logo": "images/alexjaxx-crop.png",
     "font_family": "Helvetica",
-    "analytics_id": "UA-175892000-1",
 }
 
 html_sidebars = {
