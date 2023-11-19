@@ -13,7 +13,6 @@ Jeffrey A. Clark (Alex)
 About
 -----
 
-- Musician at |headstraight|
 - Creator of |python_pillow|
 - President of |aclark_net|
 - President & Executive Director of |dc_python|
