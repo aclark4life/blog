@@ -6,7 +6,6 @@ What I'm Doing Now
 |
 
 .. image:: images/alexjaxx-crop.png
-   :class: blog-image
    :align: center
 
 |
