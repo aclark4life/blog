@@ -15,3 +15,23 @@ Introduction
 ------------
 
 |
+
+Problem
+-------
+
+|
+
+Attempts
+--------
+
+|
+
+Light Bulb
+----------
+
+|
+
+Conclusion
+----------
+
+|
