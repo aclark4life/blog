@@ -21,7 +21,7 @@ Sound familiar? I wrote about a `similar encounter six years ago <https://blog.a
 The task at hand
 ----------------
 
-Now the task at hand is Samba on Rocky Linux 9. For years I ran File Sharing on a 2012 Mac Pro running Sierra and circumstances led me recently to replace that server with an HP Envy laptop with 11G RAM.
+Now the task at hand is running Samba on Rocky Linux 9. For years I ran File Sharing on a 2012 Mac Pro running Sierra and circumstances led me recently to replace that server with an HP Envy laptop with 11G RAM.
 
 Attempts
 --------
