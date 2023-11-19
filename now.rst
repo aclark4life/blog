@@ -13,13 +13,11 @@ What I'm Doing Now
 
 I'm in Bethesda, MD, USA spending all my time on:
 
-- Musician at |headstraight|.
 - Creator of |python_pillow|.
 - President of |aclark_net|.
 - President & Executive Director of |dc_python|.
-- Blogging at |python_packages|.
 
-Last updated Q4 2022. More |now|.
+Last updated Q4 2023. More |now|.
 
 |
 
