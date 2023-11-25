@@ -4,6 +4,7 @@ deploy:
 	aws cloudfront create-invalidation --distribution-id ER61U0W7M90OK --paths "/*" | cat
 
 build:
+	rm -rvf _build/html/
 	$(MAKE) sphinx-build
 
 clean:
