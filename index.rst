@@ -13,9 +13,9 @@ Alex Clark's Blog
 About
 -----
 
-- Creator of |python_pillow|
-- President of |aclark_net|
-- President & Executive Director of |dc_python|
+Jeffrey A. Clark (Alex) has a Bachelor of Science in Computer Science from Loyola University in Maryland (formerly Loyola College) and has worked as a Network Engineer, Software Engineer and Systems Administrator since May 1998.
+
+He is also the President of ACLARK.NET, LLC, the President & Executive Director of DC Python and the Creator of Python Pillow.
 
 |
 
@@ -40,21 +40,3 @@ Articles
    now
 
 |
-
-.. Links
-
-.. |headstraight| raw:: html
-
-    <a href="https://headstraightband.com" target="_blank">Headstraight</a>
-
-.. |aclark_net| raw:: html
-
-    <a href="https://aclark.net" target="_blank">ACLARK.NET, LLC</a> 
-
-.. |python_pillow| raw:: html
-
-    <a href="https://python-pillow.org" target="_blank">Python Pillow</a>
-
-.. |dc_python| raw:: html
-
-    <a href="https://dcpython.org" target="_blank">DC Python</a>
