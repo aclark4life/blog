@@ -25,7 +25,6 @@ Articles
 .. toctree::
    :maxdepth: 1
 
-   now
    2023/11/19/selinux-0-alex-clark-1
    2017/06/26/saml-1-alex-clark-0
    2016/11/23/project-makefile
@@ -38,6 +37,7 @@ Articles
    2009/12/31/new-years-python-meme
    2008/03/06/unix-tips-for-the-elderly
    2007/03/16/first-post
+   now
 
 |
 
