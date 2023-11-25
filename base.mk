@@ -150,6 +150,75 @@ TMPDIR := $(shell mktemp -d)
 # https://stackoverflow.com/a/589260/185820
 UNAME := $(shell uname)
 
+define BASE_TEMPLATE
+{% load static wagtailcore_tags wagtailuserbar %}
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>
+            {% block title %}
+            {% if page.seo_title %}{{ page.seo_title }}{% else %}{{ page.title }}{% endif %}
+            {% endblock %}
+            {% block title_suffix %}
+            {% wagtail_site as current_site %}
+            {% if current_site and current_site.site_name %}- {{ current_site.site_name }}{% endif %}
+            {% endblock %}
+        </title>
+        {% if page.search_description %}
+        <meta name="description" content="{{ page.search_description }}" />
+        {% endif %}
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        {# Force all links in the live preview panel to be opened in a new tab #}
+        {% if request.in_preview_panel %}
+        <base target="_blank">
+        {% endif %}
+
+        {% block extra_css %}
+        {# Override this in templates to add extra stylesheets #}
+        {% endblock %}
+    </head>
+
+    <body class="{% block body_class %}{% endblock %}">
+        {% wagtailuserbar %}
+
+		<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+		  <div class="container-fluid">
+			<a class="navbar-brand" href="#">Fixed navbar</a>
+			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+			  <span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarCollapse">
+			  <ul class="navbar-nav me-auto mb-2 mb-md-0">
+				<li class="nav-item">
+				  <a class="nav-link active" aria-current="page" href="#">Home</a>
+				</li>
+				<li class="nav-item">
+				  <a class="nav-link" href="#">Link</a>
+				</li>
+				<li class="nav-item">
+				  <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+				</li>
+			  </ul>
+			  <form class="d-flex" role="search">
+				<input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+				<button class="btn btn-outline-success" type="submit">Search</button>
+			  </form>
+			</div>
+		  </div>
+		</nav>
+
+        {% block content %}{% endblock %}
+
+        {% block extra_js %}
+        {# Override this in templates to add extra javascript #}
+        {% endblock %}
+    </body>
+</html>
+endef
+
 define HOME_PAGE_MODEL
 from django.db import models
 from wagtail.models import Page
@@ -167,17 +236,69 @@ class HomePage(SeoMixin, Page):
     promote_panels = SeoMixin.seo_panels
 endef
 
-# https://stackoverflow.com/a/649462/185820
+define ALLAUTH_LAYOUT_BASE
+{% extends 'base.html' %}
+{% load i18n %}
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>
+            {% block head_title %}
+            {% endblock head_title %}
+        </title>
+        {% block extra_head %}
+        {% endblock extra_head %}
+    </head>
+    <body>
+        {% block body %}
+            {% if messages %}
+                <div>
+                    <strong>{% trans "Messages:" %}</strong>
+                    <ul>
+                        {% for message in messages %}<li>{{ message }}</li>{% endfor %}
+                    </ul>
+                </div>
+            {% endif %}
+            <div>
+                <strong>{% trans "Menu:" %}</strong>
+                <ul>
+                    {% if user.is_authenticated %}
+                        <li>
+                            <a href="{% url 'account_email' %}">{% trans "Change Email" %}</a>
+                        </li>
+                        <li>
+                            <a href="{% url 'account_logout' %}">{% trans "Sign Out" %}</a>
+                        </li>
+                    {% else %}
+                        <li>
+                            <a href="{% url 'account_login' %}">{% trans "Sign In" %}</a>
+                        </li>
+                        <li>
+                            <a href="{% url 'account_signup' %}">{% trans "Sign Up" %}</a>
+                        </li>
+                    {% endif %}
+                </ul>
+            </div>
+            {% block content %}
+            {% endblock content %}
+        {% endblock body %}
+        {% block extra_body %}
+        {% endblock extra_body %}
+    </body>
+</html>
+endef
+
 define HOME_PAGE_TEMPLATE
 {% extends "base.html" %}
 {% load webpack_loader static %}
-{% block body_class %}template-homepage{% endblock %}
+{% block body_class %}bg-dark{% endblock %}
 {% block extra_css %}
     {% stylesheet_pack 'app' %}
     {% include "wagtailseo/meta.html" %}
 {% endblock extra_css %}
 {% block content %}
-    {% load webpack_loader static %}
     <div class="jumbotron py-5">
         <div class="container">
             <a href="/" class="text-decoration-none text-dark">
@@ -191,6 +312,7 @@ define HOME_PAGE_TEMPLATE
                 <a type="button"
                    class="btn btn-primary"
                    href="{% url 'admin:index' %}"
+                   target="_blank"
                    role="button">Django Admin</a>
                 <a type="button"
                    class="btn btn-primary"
@@ -322,6 +444,8 @@ if settings.DEBUG:
     ]
 endef
 
+export ALLAUTH_LAYOUT_BASE
+export BASE_TEMPLATE
 export HOME_PAGE_MODEL
 export HOME_PAGE_TEMPLATE
 export JENKINS_FILE
@@ -501,10 +625,10 @@ git-branches-default:
         git checkout -t $$i ; done
 
 git-commit-default:
-	git commit -a -m $(GIT_MESSAGE)
+	-git commit -a -m $(GIT_MESSAGE)
 
 git-commit-edit-default:
-	git commit -a
+	-git commit -a
 
 git-commit-push-default: git-commit git-push
 
@@ -514,7 +638,7 @@ git-prune-default:
 	git remote update origin --prune
 
 git-push-default:
-	git push
+	-git push
 
 git-set-upstream-default:
 	git push --set-upstream origin main
@@ -558,11 +682,14 @@ flake-default:
 	-flake8 $(PROJECT_NAME)/*.py
 	-flake8 $(PROJECT_NAME)/*/*.py
 
-help-default:
-	@$(MAKE) -pRrq -f $(lastword $(MAKEFILE_LIST)) : 2>/dev/null | awk -v RS= -F:\
-        '/^# File/,/^# Finished Make data base/ {if ($$1 !~ "^[#.]") {print $$1}}'\
-        | sort | egrep -v -e '^[^[:alnum:]]' -e '^$@$$' | xargs | tr ' ' '\n' | awk\
-        '{print "make "$$0}' | less  # http://stackoverflow.com/a/26339924
+# Given a base.mk, Makefile and project.mk, and base.mk and project.mk included from Makefile, print target names from all makefiles.
+help-default:  # http://stackoverflow.com/a/26339924
+	@for makefile in $(MAKEFILE_LIST); do \
+        $(MAKE) -pRrq -f $$makefile : 2>/dev/null \
+            | awk -v RS= -F: '/^# File/,/^# Finished Make data base/ {if ($$1 !~ "^[#.]") {print $$1}}' \
+            | sort | egrep -v -e '^[^[:alnum:]]' -e '^$@$$' \
+            | xargs | tr ' ' '\n' \
+            | awk '{printf "%s\n", $$0}' ; done | less
 
 isort-default:
 	-isort *.py
@@ -615,6 +742,8 @@ init-default: gitignore make pip-init readme-init
 deploy-default: eb-deploy
 
 serve-default: django-serve
+
+edit-default: readme-edit
 
 serve-prod-default: django-serve-prod
 
@@ -755,6 +884,9 @@ wagtail-init-default: db-init wagtail-install
 	-git add search
 	@$(MAKE) django-migrate
 	@$(MAKE) su
+	@echo "$$BASE_TEMPLATE" > $(PROJECT_NAME)/templates/base.html
+	mkdir -p $(PROJECT_NAME)/templates/allauth/layouts
+	@echo "$$ALLAUTH_LAYOUT_BASE" > $(PROJECT_NAME)/templates/allauth/layouts/base.html
 	@echo "$$HOME_PAGE_TEMPLATE" > home/templates/home/home_page.html
 	python manage.py webpack_init --skip-checks
 	-git add frontend
@@ -776,6 +908,7 @@ wagtail-install-default:
         django-after-response \
         django-ckeditor \
         django-countries \
+        django-crispy-forms \
         django-debug-toolbar \
         django-extensions \
         django-imagekit \
@@ -850,19 +983,14 @@ readme: readme-init
 .PHONY: s
 s: serve
 
+.PHONY: e
+e: edit
+
 .PHONY: sp
 sp: serve-prod
 
 .PHONY: b
 b: build
-
-# readme --------------------------------------------------------------------------------
-
-.PHONY: edit
-edit: readme-edit
-
-.PHONY: e
-e: edit
 
 .PHONY: o
 o: open
