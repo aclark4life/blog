@@ -627,24 +627,25 @@ git-branches-default:
 git-commit-default:
 	-git commit -a -m $(GIT_MESSAGE)
 
+git-push-default:
+	-git push
+
 git-commit-edit-default:
 	-git commit -a
 
-git-commit-push-default: git-commit git-push
-
-git-edit-push-default: git-commit-edit git-push
+git-commit-edit-push-default: git-commit-edit git-push
 
 git-prune-default:
 	git remote update origin --prune
-
-git-push-default:
-	-git push
 
 git-set-upstream-default:
 	git push --set-upstream origin main
 
 git-commit-empty-default:
 	git commit --allow-empty -m "Empty-Commit" ; git push
+
+git-commit-push: git-commit git-push
+git-commit-edit-push: git-commit-edit git-push
 
 #
 # iOS
@@ -997,13 +998,13 @@ o: open
 
 # git --------------------------------------------------------------------------------
 
-.PHONY: ce
-ce: git-commit-edit git-push
-
 .PHONY: cp
 cp: git-commit-push
 
-.PHONY: e
+.PHONY: ce
+ce: git-commit-edit-push 
+
+.PHONY: empty
 empty: git-commit-empty
 
 # pip --------------------------------------------------------------------------------

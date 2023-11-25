@@ -6,3 +6,6 @@ deploy:
 build:
 	rm -rvf _build/html/
 	$(MAKE) sphinx-build
+
+edit:
+	vi index.rst
