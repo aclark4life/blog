@@ -8,6 +8,6 @@ Updated November 24th, 2023, from Bethesda, MD, USA.
 Open to work
 ------------
 
-`Get in touch! <mailto:aclark@aclark.net>`_
+`Get in touch! <https://resume.aclark.net>`_
 
 |
