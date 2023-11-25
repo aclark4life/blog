@@ -7,7 +7,7 @@ pipeline {
         stage('Blog') {
             steps {
                 echo 'Blog...'
-                sh 'make b d'
+                sh 'make all'
             }
         }
     }
