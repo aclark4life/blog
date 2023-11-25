@@ -5,7 +5,9 @@ What I'm Doing Now
 
 Updated November 24th, 2023, from Bethesda, MD, USA.
 
-I am looking for work
----------------------
+Open to work
+------------
 
 `Get in touch! <mailto:aclark@aclark.net>`_
+
+|
